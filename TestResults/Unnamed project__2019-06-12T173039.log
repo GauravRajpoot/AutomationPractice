@@ -1,0 +1,13 @@
+﻿2019-06-12T17:30:39.7212279+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-12T17:30:39.7212279+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-12T17:30:39.7212279+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-12T17:30:39.7556865+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T17:30:39.7556865+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-12T17:30:39.7556865+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-12T17:30:39.7726430+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T173039.log
+2019-06-12T17:30:39.7746383+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T17:30:39.7786720+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-12T17:30:39.7832207+05:30;Thread#15;Info;Checking license
+2019-06-12T17:30:39.7836121+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T17:30:39.7838042+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T17:30:39.7976072+05:30;Thread#15;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)

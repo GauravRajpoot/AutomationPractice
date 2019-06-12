@@ -1,0 +1,104 @@
+﻿2019-06-12T15:16:17.4865976+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-12T15:16:17.4865976+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-12T15:16:17.4865976+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-12T15:16:17.5264955+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T15:16:17.5274834+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-12T15:16:17.5274834+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-12T15:16:17.5434446+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T151617.log
+2019-06-12T15:16:17.5444058+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T15:16:17.5503902+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-12T15:16:17.5554135+05:30;Thread#13;Info;Checking license
+2019-06-12T15:16:17.5554135+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T15:16:17.5563748+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T15:16:17.5686020+05:30;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-06-12T15:16:24.5699453+05:30;Thread#13;Info;Evaluation delay finished.
+2019-06-12T15:16:24.5798885+05:30;Thread#13;Info;License check completed
+2019-06-12T15:16:24.5798885+05:30;Thread#13;Info;starting test run
+2019-06-12T15:16:24.5868691+05:30;Thread#13;Info;Discovering target: Default
+2019-06-12T15:16:24.5868691+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T15:16:24.8368518+05:30:Appdomain Disposed
+2019-06-12T15:16:24.8368518+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T15:16:24.8374605+05:30:Test Suite Dump
+2019-06-12T15:16:24.8383922+05:30:#0: Unnamed project/ - 
+2019-06-12T15:16:24.8383922+05:30:#1: Default - 
+2019-06-12T15:16:24.8383922+05:30:#2: Assignmnet - 
+2019-06-12T15:16:24.8383922+05:30:#9: Checking the functionality of flight booking at Expedia.com - 
+2019-06-12T15:16:24.8632904+05:30:#13: Trip Summary - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Trip+Summary
+2019-06-12T15:16:24.8632904+05:30:End: Test Suite Dump
+2019-06-12T15:16:24.8802455+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T15:16:24.8812882+05:30:Thread#:Scheduler: testitem #13 from normal test queue 
+2019-06-12T15:16:24.8812882+05:30:Thread#0:Scheduler: considering testitem #13 for thread 0
+2019-06-12T15:16:24.8852886+05:30:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T15:16:24.8852886+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2019-06-12T15:16:24.8852886+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2019-06-12T15:16:24.8852886+05:30:Thread#0:Scheduler: using testitem #13 for thread 0
+2019-06-12T15:16:24.8862287+05:30:Thread#0:Scheduler: Test #13 is scheduled for thread
+2019-06-12T15:16:24.8862287+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-12T15:16:24.8882232+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-12T15:16:24.8893124+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T15:16:24.8902180+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T15:16:24.8902180+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-12T15:16:24.9321426+05:30:Thread#0: Test #13/0 is started on thread #0
+2019-06-12T15:16:25.0264073+05:30:Thread#0:T:-> Using app.config
+2019-06-12T15:16:25.0732302+05:30:Thread#0:B:When ENsuring correct information of all three flights
+2019-06-12T15:16:25.1555796+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.WhenENsuringCorrectInformationOfAllThreeFlights() (0.0s)
+2019-06-12T15:16:25.1565766+05:30:Thread#0:B:Then Ensuring the correct amount per person
+2019-06-12T15:16:25.1665501+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-12T15:16:25.1954728+05:30:Thread#0:TestItem#13:Scheduler: reschedule tests for testitem #13
+2019-06-12T15:16:25.1954728+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T15:16:25.1954728+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #13
+2019-06-12T15:16:25.1954728+05:30:Thread#0:Scheduler: considering testitem #13 for thread 0
+2019-06-12T15:16:25.1954728+05:30:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T15:16:25.1964709+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2019-06-12T15:16:25.1964709+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2019-06-12T15:16:25.1964709+05:30:Thread#0:Scheduler: using testitem #13 for thread 0
+2019-06-12T15:16:25.1964709+05:30:Thread#0:Scheduler: Test #13 is scheduled for thread
+2019-06-12T15:16:25.1964709+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-12T15:16:25.2064439+05:30:Thread#0: Test #13/0 is finished on thread #0 as Failed within 0.2733061 seconds
+2019-06-12T15:16:25.2084385+05:30:Thread#0: Test #13/1 is started on thread #0
+2019-06-12T15:16:25.2084385+05:30:Thread#0:B:When ENsuring correct information of all three flights
+2019-06-12T15:16:25.2084385+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.WhenENsuringCorrectInformationOfAllThreeFlights() (0.0s)
+2019-06-12T15:16:25.2094352+05:30:Thread#0:B:Then Ensuring the correct amount per person
+2019-06-12T15:16:25.2094352+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-12T15:16:25.2107324+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T15:16:25.2107324+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #13
+2019-06-12T15:16:25.2107324+05:30:Thread#0:Scheduler: considering testitem #13 for thread 0
+2019-06-12T15:16:25.2107324+05:30:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T15:16:25.2107324+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2019-06-12T15:16:25.2107324+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2019-06-12T15:16:25.2107324+05:30:Thread#0:Scheduler: using testitem #13 for thread 0
+2019-06-12T15:16:25.2107324+05:30:Thread#0:Scheduler: Test #13 is scheduled for thread
+2019-06-12T15:16:25.2107324+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-12T15:16:25.2107324+05:30:Thread#0: Test #13/1 is finished on thread #0 as Failed within 0.0022939 seconds
+2019-06-12T15:16:25.2114298+05:30:Thread#0: Test #13/2 is started on thread #0
+2019-06-12T15:16:25.2115444+05:30:Thread#0:B:When ENsuring correct information of all three flights
+2019-06-12T15:16:25.2115444+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.WhenENsuringCorrectInformationOfAllThreeFlights() (0.0s)
+2019-06-12T15:16:25.2115444+05:30:Thread#0:B:Then Ensuring the correct amount per person
+2019-06-12T15:16:25.2125039+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-12T15:16:25.2125039+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T15:16:25.2125039+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-12T15:16:25.2125039+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-12T15:16:25.2125039+05:30:Thread#0:Scheduler: No more tests for thread
+2019-06-12T15:16:25.2134266+05:30:Thread#0: Test #13/2 is finished on thread #0 as Failed within 0.0018822 seconds
+2019-06-12T15:16:25.2174456+05:30:Appdomain Disposed
+2019-06-12T15:16:25.2187351+05:30:Trying to cancel thread
+2019-06-12T15:16:25.2187351+05:30:Thread cancelled
+2019-06-12T15:16:25.2233975+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-12T15:16:25.2233975+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-12T15:16:25.2233975+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-12T15:16:25.2270664+05:30;Thread#13;Info;test run finished
+2019-06-12T15:16:25.2270664+05:30;Thread#13;Info;publishing test results
+2019-06-12T15:16:25.2533186+05:30;Thread#13;Info;test results published
+2019-06-12T15:16:25.2533186+05:30;Thread#13;Info;generating reports
+2019-06-12T15:16:25.3282794+05:30;Thread#13;Info;Starting external report generation process
+2019-06-12T15:16:26.5128462+05:30;Thread#13;Info;Successfully generated reports.
+2019-06-12T15:16:26.5138429+05:30;Thread#13;Info;Successfully generated reports
+2019-06-12T15:16:26.5218211+05:30:Total: 1 (test executions: 3)
+2019-06-12T15:16:26.5238483+05:30:Succeeded: 0
+2019-06-12T15:16:26.5238483+05:30:Ignored: 0
+2019-06-12T15:16:26.5238483+05:30:Pending: 0
+2019-06-12T15:16:26.5238483+05:30:Skipped: 0
+2019-06-12T15:16:26.5248451+05:30:Failed: 1
+2019-06-12T15:16:26.5317946+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-12T15:16:26.5317946+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T151617.html'
+========== End of log file ==========

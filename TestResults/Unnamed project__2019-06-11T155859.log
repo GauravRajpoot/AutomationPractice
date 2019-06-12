@@ -1,0 +1,174 @@
+﻿2019-06-11T15:58:59.3612117+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-11T15:58:59.3612117+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-11T15:58:59.3612117+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-11T15:58:59.4021024+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T15:58:59.4021024+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-11T15:58:59.4021024+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-11T15:58:59.4215598+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-11T155859.log
+2019-06-11T15:58:59.4235545+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T15:58:59.4295384+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-11T15:58:59.4345244+05:30;Thread#15;Info;Checking license
+2019-06-11T15:58:59.4345244+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T15:58:59.4355227+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T15:58:59.4474910+05:30;Thread#15;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-06-11T15:59:10.4489342+05:30;Thread#15;Info;Evaluation delay finished.
+2019-06-11T15:59:10.4529239+05:30;Thread#15;Info;License check completed
+2019-06-11T15:59:10.4529239+05:30;Thread#15;Info;starting test run
+2019-06-11T15:59:10.4589102+05:30;Thread#15;Info;Discovering target: Default
+2019-06-11T15:59:10.4589102+05:30;Thread#15;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T15:59:10.4943561+05:30:Appdomain Disposed
+2019-06-11T15:59:10.4943561+05:30;Thread#15;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T15:59:10.4953543+05:30:Test Suite Dump
+2019-06-11T15:59:10.4973489+05:30:#0: Unnamed project/ - 
+2019-06-11T15:59:10.4973489+05:30:#1: Default - 
+2019-06-11T15:59:10.4973489+05:30:#2: Assignmnet - 
+2019-06-11T15:59:10.4973489+05:30:#3: Check functionality of website as a user - 
+2019-06-11T15:59:10.5043634+05:30:#4: Register  with Invalid Credentials, Variant 0 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+0
+2019-06-11T15:59:10.5043634+05:30:#5: Register  with Invalid Credentials, Variant 1 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+1
+2019-06-11T15:59:10.5043634+05:30:#6: Register  with Invalid Credentials, Variant 2 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+2
+2019-06-11T15:59:10.5043634+05:30:#7: Register  with Invalid Credentials, Variant 3 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+3
+2019-06-11T15:59:10.5043634+05:30:End: Test Suite Dump
+2019-06-11T15:59:10.5233105+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:59:10.5242764+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-11T15:59:10.5242764+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T15:59:10.5283000+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:59:10.5283000+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:59:10.5283000+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:59:10.5283000+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T15:59:10.5292627+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T15:59:10.5302926+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T15:59:10.5322860+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-11T15:59:10.5332835+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T15:59:10.5332835+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T15:59:10.5332835+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-11T15:59:10.5761389+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-06-11T15:59:10.8225120+05:30:Thread#0:T:-> Using app.config
+2019-06-11T15:59:10.8753369+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:59:14.0772149+05:30:Thread#0:T:error: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+2019-06-11T15:59:14.0772149+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:59:14.0772149+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-11T15:59:14.0782153+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T15:59:14.0831987+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:14.0831987+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:59:14.0831987+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:14.0841961+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:59:14.0841961+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:14.1011509+05:30:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-11T15:59:14.1011509+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:59:14.1011509+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-11T15:59:14.1011509+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T15:59:14.1011509+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:59:14.1011509+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:59:14.1011509+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:59:14.1011509+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T15:59:14.1011509+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T15:59:14.1011509+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-11T15:59:14.1111269+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 3.5339895 seconds
+2019-06-11T15:59:14.1131191+05:30:Thread#0: Test #4/1 is started on thread #0
+2019-06-11T15:59:14.1131191+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:59:17.4027986+05:30:Thread#0:T:error: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+2019-06-11T15:59:17.4027986+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:59:17.4027986+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-11T15:59:17.4027986+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T15:59:17.4037904+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:17.4037904+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:59:17.4037904+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:17.4037904+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:59:17.4037904+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:17.4047880+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:59:17.4047880+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-11T15:59:17.4047880+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T15:59:17.4047880+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:59:17.4047880+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:59:17.4047880+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:59:17.4047880+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T15:59:17.4047880+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T15:59:17.4047880+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-11T15:59:17.4087822+05:30:Thread#0: Test #4/1 is finished on thread #0 as Failed within 3.2956631 seconds
+2019-06-11T15:59:17.4087822+05:30:Thread#0: Test #4/2 is started on thread #0
+2019-06-11T15:59:17.4092940+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:59:20.6146719+05:30:Thread#0:T:error: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+2019-06-11T15:59:20.6156690+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:59:20.6156690+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-11T15:59:20.6156690+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T15:59:20.6156690+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:20.6156690+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:59:20.6156690+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:20.6166684+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:59:20.6166684+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:20.6166684+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:59:20.6166684+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-06-11T15:59:20.6166684+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-11T15:59:20.6166684+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:59:20.6166684+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:59:20.6166684+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:59:20.6166684+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-11T15:59:20.6166684+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-11T15:59:20.6166684+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T15:59:20.6176629+05:30:Thread#0: Test #4/2 is finished on thread #0 as Failed within 3.2088807 seconds
+2019-06-11T15:59:20.6176629+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-06-11T15:59:20.6176629+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:59:23.8408670+05:30:Thread#0:T:error: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+2019-06-11T15:59:23.8408670+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:59:23.8408670+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-11T15:59:23.8408670+05:30:Thread#0:B:When I register a new User with 'gaurav@gmail.com' Username and '' Password
+2019-06-11T15:59:23.8408670+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:23.8408670+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:59:23.8408670+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:23.8408670+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:59:23.8420036+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:23.8420036+05:30:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2019-06-11T15:59:23.8420036+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:59:23.8420036+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-06-11T15:59:23.8420036+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-11T15:59:23.8420036+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:59:23.8420036+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:59:23.8420036+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:59:23.8420036+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-11T15:59:23.8420036+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-11T15:59:23.8420036+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-11T15:59:23.8429942+05:30:Thread#0: Test #5/0 is finished on thread #0 as Failed within 3.2253313 seconds
+2019-06-11T15:59:23.8429942+05:30:Thread#0: Test #5/1 is started on thread #0
+2019-06-11T15:59:23.8429942+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:59:27.1496957+05:30:Thread#0:T:error: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+2019-06-11T15:59:27.1496957+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:59:27.1496957+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-11T15:59:27.1496957+05:30:Thread#0:B:When I register a new User with 'gaurav@gmail.com' Username and '' Password
+2019-06-11T15:59:27.1496957+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:27.1506908+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:59:27.1506908+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:27.1506908+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:59:27.1506908+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:27.1506908+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:59:27.1506908+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-06-11T15:59:27.1506908+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-11T15:59:27.1506908+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:59:27.1506908+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:59:27.1506908+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:59:27.1506908+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-11T15:59:27.1506908+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-11T15:59:27.1506908+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-11T15:59:27.1516883+05:30:Thread#0: Test #5/1 is finished on thread #0 as Failed within 3.3086941 seconds
+2019-06-11T15:59:27.1516883+05:30:Thread#0: Test #5/2 is started on thread #0
+2019-06-11T15:59:27.1516883+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:59:30.3761427+05:30:Thread#0:T:error: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot navigate to invalid URL"}
+2019-06-11T15:59:30.3771395+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:59:30.3771395+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-11T15:59:30.3771395+05:30:Thread#0:B:When I register a new User with 'gaurav@gmail.com' Username and '' Password
+2019-06-11T15:59:30.3771395+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:30.3771395+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:59:30.3771395+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:30.3771395+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:59:30.3771395+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:59:30.3781364+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:59:30.3781364+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-06-11T15:59:30.3781364+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-06-11T15:59:30.3781364+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:59:30.3781364+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:59:30.3781364+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:59:30.3781364+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-06-11T15:59:30.3781364+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-06-11T15:59:30.3781364+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T15:59:30.3781364+05:30:Thread#0: Test #5/2 is finished on thread #0 as Failed within 3.2264481 seconds
+2019-06-11T15:59:30.3781364+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-06-11T15:59:30.3791343+05:30:Thread#0:B:Given Open the Website for testing

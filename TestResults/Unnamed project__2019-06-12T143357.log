@@ -1,0 +1,133 @@
+﻿2019-06-12T14:33:57.4627733+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-12T14:33:57.4627733+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-12T14:33:57.4627733+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-12T14:33:57.4947563+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T14:33:57.4956749+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-12T14:33:57.4956749+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-12T14:33:57.5116716+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T143357.log
+2019-06-12T14:33:57.5126100+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T14:33:57.5195965+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-12T14:33:57.5236192+05:30;Thread#13;Info;Checking license
+2019-06-12T14:33:57.5246177+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T14:33:57.5255835+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T14:33:57.5366147+05:30;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-06-12T14:34:07.5444251+05:30;Thread#13;Info;Evaluation delay finished.
+2019-06-12T14:34:07.5613930+05:30;Thread#13;Info;License check completed
+2019-06-12T14:34:07.5735453+05:30;Thread#13;Info;starting test run
+2019-06-12T14:34:07.5913217+05:30;Thread#13;Info;Discovering target: Default
+2019-06-12T14:34:07.5923209+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T14:34:07.8502805+05:30:Appdomain Disposed
+2019-06-12T14:34:07.8502805+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T14:34:07.8502805+05:30:Test Suite Dump
+2019-06-12T14:34:07.8511683+05:30:#0: Unnamed project/ - 
+2019-06-12T14:34:07.8511683+05:30:#1: Default - 
+2019-06-12T14:34:07.8511683+05:30:#2: Assignmnet - 
+2019-06-12T14:34:07.8511683+05:30:#9: Checking the functionality of flight booking at Expedia.com - 
+2019-06-12T14:34:07.8777292+05:30:#10: Login in to Expedia - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Login+in+to+Expedia
+2019-06-12T14:34:07.8777292+05:30:#11: Multicity flight booking - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Multicity+flight+booking
+2019-06-12T14:34:07.8777292+05:30:#12: Searchinfg the flight - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Searchinfg+the+flight
+2019-06-12T14:34:07.8777292+05:30:#13: ZClosing the Browser - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:ZClosing+the+Browser
+2019-06-12T14:34:07.8777292+05:30:End: Test Suite Dump
+2019-06-12T14:34:07.8952222+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T14:34:07.8972174+05:30:Thread#:Scheduler: testitem #10 from normal test queue 
+2019-06-12T14:34:07.8972174+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-06-12T14:34:07.9004336+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T14:34:07.9004336+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-06-12T14:34:07.9004336+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-06-12T14:34:07.9004336+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-06-12T14:34:07.9012730+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-06-12T14:34:07.9022286+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-12T14:34:07.9042240+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-12T14:34:07.9062196+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T14:34:07.9062196+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T14:34:07.9072175+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-12T14:34:07.9545332+05:30:Thread#0: Test #10/0 is started on thread #0
+2019-06-12T14:34:08.0432979+05:30:Thread#0:T:-> Using app.config
+2019-06-12T14:34:08.0877829+05:30:Thread#0:B:Given Open Chrome WebBrowser
+2019-06-12T14:34:11.3846278+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.GivenOpenChromeWebBrowser() (3.2s)
+2019-06-12T14:34:11.3856253+05:30:Thread#0:B:Then Pass the URL of Website
+2019-06-12T14:34:28.3826311+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenPassTheURLOfWebsite() (17.0s)
+2019-06-12T14:34:28.3955959+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T14:34:28.3955959+05:30:Thread#:Scheduler: testitem #11 from normal test queue 
+2019-06-12T14:34:28.3955959+05:30:Thread#0:Scheduler: considering testitem #11 for thread 0
+2019-06-12T14:34:28.3955959+05:30:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T14:34:28.3955959+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2019-06-12T14:34:28.3955959+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2019-06-12T14:34:28.3955959+05:30:Thread#0:Scheduler: using testitem #11 for thread 0
+2019-06-12T14:34:28.3955959+05:30:Thread#0:Scheduler: Test #11 is scheduled for thread
+2019-06-12T14:34:28.3955959+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-12T14:34:28.4157360+05:30:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 20.46024 seconds
+2019-06-12T14:34:28.4175611+05:30:Thread#0: Test #11/0 is started on thread #0
+2019-06-12T14:34:28.4175611+05:30:Thread#0:B:Then Click on flight tab
+2019-06-12T14:34:28.6096122+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenClickOnFlightTab() (0.2s)
+2019-06-12T14:34:28.6096122+05:30:Thread#0:B:And Choose MultiCity OPtion
+2019-06-12T14:34:28.7423021+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenChooseMultiCityOPtion() (0.1s)
+2019-06-12T14:34:28.7423021+05:30:Thread#0:B:Then Pass Source and Destination Place
+2019-06-12T14:34:29.9985227+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenPassSourceAndDestinationPlace() (1.3s)
+2019-06-12T14:34:29.9985227+05:30:Thread#0:B:And Choose DateOfJourney and Choose Number of Passengers
+2019-06-12T14:34:30.9578489+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenChooseDateOfJourneyAndChooseNumberOfPassengers() (1.0s)
+2019-06-12T14:34:30.9578489+05:30:Thread#0:B:Then Again choose Source and Destination for second time
+2019-06-12T14:34:31.8060328+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenAgainChooseSourceAndDestinationForSecondTime() (0.8s)
+2019-06-12T14:34:31.8060328+05:30:Thread#0:B:And Choose DateOfJourney
+2019-06-12T14:34:32.0873546+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenChooseDateOfJourney() (0.3s)
+2019-06-12T14:34:32.0873546+05:30:Thread#0:B:Then Again choose Source  and Destination for third time
+2019-06-12T14:34:33.0646277+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenAgainChooseSourceAndDestinationForThirdTime() (1.0s)
+2019-06-12T14:34:33.0646277+05:30:Thread#0:B:And Choose DateOfJourney  for return
+2019-06-12T14:34:33.3291442+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenChooseDateOfJourneyForReturn() (0.3s)
+2019-06-12T14:34:33.3301418+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T14:34:33.3301418+05:30:Thread#:Scheduler: testitem #12 from normal test queue 
+2019-06-12T14:34:33.3301418+05:30:Thread#0:Scheduler: considering testitem #12 for thread 0
+2019-06-12T14:34:33.3301418+05:30:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T14:34:33.3301418+05:30:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2019-06-12T14:34:33.3301418+05:30:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2019-06-12T14:34:33.3301418+05:30:Thread#0:Scheduler: using testitem #12 for thread 0
+2019-06-12T14:34:33.3301418+05:30:Thread#0:Scheduler: Test #12 is scheduled for thread
+2019-06-12T14:34:33.3301418+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-12T14:34:33.3311402+05:30:Thread#0: Test #11/0 is finished on thread #0 as Succeeded within 4.9135791 seconds
+2019-06-12T14:34:33.3311402+05:30:Thread#0: Test #12/0 is started on thread #0
+2019-06-12T14:34:33.3321906+05:30:Thread#0:B:Then Click On the Search BUtton
+2019-06-12T14:34:40.4288165+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenClickOnTheSearchBUtton() (7.1s)
+2019-06-12T14:34:40.4288165+05:30:Thread#0:B:And Display the successfull message
+2019-06-12T14:34:40.4298133+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenDisplayTheSuccessfullMessage() (0.0s)
+2019-06-12T14:34:40.4299052+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T14:34:40.4299052+05:30:Thread#:Scheduler: testitem #13 from normal test queue 
+2019-06-12T14:34:40.4299052+05:30:Thread#0:Scheduler: considering testitem #13 for thread 0
+2019-06-12T14:34:40.4299052+05:30:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T14:34:40.4299052+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2019-06-12T14:34:40.4299052+05:30:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2019-06-12T14:34:40.4299052+05:30:Thread#0:Scheduler: using testitem #13 for thread 0
+2019-06-12T14:34:40.4299052+05:30:Thread#0:Scheduler: Test #13 is scheduled for thread
+2019-06-12T14:34:40.4299052+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-12T14:34:40.4299052+05:30:Thread#0: Test #12/0 is finished on thread #0 as Succeeded within 7.098765 seconds
+2019-06-12T14:34:40.4299052+05:30:Thread#0: Test #13/0 is started on thread #0
+2019-06-12T14:34:40.4308106+05:30:Thread#0:B:When Report are generate
+2019-06-12T14:34:40.4312452+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.WhenReportAreGenerate() (0.0s)
+2019-06-12T14:34:40.4312452+05:30:Thread#0:B:Then dismis browser
+2019-06-12T14:34:40.4318079+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.ThenDismisBrowser() (0.0s)
+2019-06-12T14:34:40.4318079+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T14:34:40.4318079+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-12T14:34:40.4318079+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-12T14:34:40.4318079+05:30:Thread#0:Scheduler: No more tests for thread
+2019-06-12T14:34:40.4328071+05:30:Thread#0: Test #13/0 is finished on thread #0 as Succeeded within 0.0029019 seconds
+2019-06-12T14:34:40.4407875+05:30:Appdomain Disposed
+2019-06-12T14:34:40.4423988+05:30:Trying to cancel thread
+2019-06-12T14:34:40.4423988+05:30:Thread cancelled
+2019-06-12T14:34:40.4498979+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-12T14:34:40.4498979+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-12T14:34:40.4498979+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-12T14:34:40.4517572+05:30;Thread#13;Info;test run finished
+2019-06-12T14:34:40.4528136+05:30;Thread#13;Info;publishing test results
+2019-06-12T14:34:40.4781968+05:30;Thread#13;Info;test results published
+2019-06-12T14:34:40.4786861+05:30;Thread#13;Info;generating reports
+2019-06-12T14:34:40.6374047+05:30;Thread#13;Info;Starting external report generation process
+2019-06-12T14:34:43.2049043+05:30;Thread#13;Info;Successfully generated reports.
+2019-06-12T14:34:43.2066639+05:30;Thread#13;Info;Successfully generated reports
+2019-06-12T14:34:43.2166683+05:30:Total: 4
+2019-06-12T14:34:43.2186682+05:30:Succeeded: 4
+2019-06-12T14:34:43.2196621+05:30:Ignored: 0
+2019-06-12T14:34:43.2206276+05:30:Pending: 0
+2019-06-12T14:34:43.2206276+05:30:Skipped: 0
+2019-06-12T14:34:43.2216247+05:30:Failed: 0
+2019-06-12T14:34:43.2392871+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-12T14:34:43.2402792+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T143357.html'
+========== End of log file ==========

@@ -1,0 +1,70 @@
+﻿2019-06-11T16:01:03.7748739+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-11T16:01:03.7748739+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-11T16:01:03.7748739+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-11T16:01:03.8287309+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T16:01:03.8287309+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-11T16:01:03.8287309+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-11T16:01:03.8456846+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-11T160103.log
+2019-06-11T16:01:03.8476779+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T16:01:03.8516671+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-11T16:01:03.8556580+05:30;Thread#15;Info;Checking license
+2019-06-11T16:01:03.8566584+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T16:01:03.8566584+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T16:01:03.8686294+05:30;Thread#15;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-06-11T16:01:12.8695754+05:30;Thread#15;Info;Evaluation delay finished.
+2019-06-11T16:01:12.8725664+05:30;Thread#15;Info;License check completed
+2019-06-11T16:01:12.8735638+05:30;Thread#15;Info;starting test run
+2019-06-11T16:01:12.8785506+05:30;Thread#15;Info;Discovering target: Default
+2019-06-11T16:01:12.8795479+05:30;Thread#15;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T16:01:12.9114626+05:30:Appdomain Disposed
+2019-06-11T16:01:12.9114626+05:30;Thread#15;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T16:01:12.9124601+05:30:Test Suite Dump
+2019-06-11T16:01:12.9134571+05:30:#0: Unnamed project/ - 
+2019-06-11T16:01:12.9134571+05:30:#1: Default - 
+2019-06-11T16:01:12.9134571+05:30:#2: Assignmnet - 
+2019-06-11T16:01:12.9134571+05:30:#3: Check functionality of website as a user - 
+2019-06-11T16:01:12.9204389+05:30:#4: Register  with Invalid Credentials, Variant 0 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+0
+2019-06-11T16:01:12.9204389+05:30:#5: Register  with Invalid Credentials, Variant 1 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+1
+2019-06-11T16:01:12.9204389+05:30:#6: Register  with Invalid Credentials, Variant 2 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+2
+2019-06-11T16:01:12.9204389+05:30:#7: Register  with Invalid Credentials, Variant 3 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+3
+2019-06-11T16:01:12.9204389+05:30:End: Test Suite Dump
+2019-06-11T16:01:12.9373940+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T16:01:12.9394196+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-11T16:01:12.9394196+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T16:01:12.9423822+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T16:01:12.9423822+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T16:01:12.9423822+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T16:01:12.9423822+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T16:01:12.9433790+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T16:01:12.9443758+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T16:01:12.9464014+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-11T16:01:12.9473981+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T16:01:12.9473981+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T16:01:12.9473981+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-11T16:01:12.9873019+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-06-11T16:01:13.2200307+05:30:Thread#0:T:-> Using app.config
+2019-06-11T16:01:13.2690293+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T16:02:16.4063377+05:30:Thread#0:T:error: The HTTP request to the remote WebDriver server for URL http://localhost:62028/session/1b0347cd03d691f56378a520c55f51e0/url timed out after 60 seconds.
+2019-06-11T16:02:16.4073352+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T16:02:16.4103288+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T16:02:16.4103288+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T16:02:16.4113247+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T16:02:16.4113247+05:30:Thread#0:B:And Generate The token
+2019-06-11T16:02:16.4123217+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T16:02:16.4323012+05:30:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-11T16:02:16.4323012+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T16:02:16.4323012+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-11T16:02:16.4323012+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T16:02:16.4323012+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T16:02:16.4323012+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T16:02:16.4323012+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T16:02:16.4323012+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T16:02:16.4323012+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T16:02:16.4323012+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-11T16:02:16.4402455+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 63.4519884 seconds
+2019-06-11T16:02:16.4422752+05:30:Thread#0: Test #4/1 is started on thread #0
+2019-06-11T16:02:16.4422752+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T16:02:32.3718093+05:30:Thread#0:T:done: CheckFunctionalityOfWebsiteAsAUserSteps.GivenOpenTheWebsiteForTesting() (15.9s)
+2019-06-11T16:02:32.3718093+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T16:02:42.5961442+05:30:Thread#0:T:done: CheckFunctionalityOfWebsiteAsAUserSteps.WhenIRegisterANewUserWithUsernameAndPassword("", "Invalid") (10.2s)
+2019-06-11T16:02:42.5961442+05:30:Thread#0:B:Then Regestration Details

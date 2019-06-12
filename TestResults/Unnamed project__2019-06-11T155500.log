@@ -1,0 +1,109 @@
+﻿2019-06-11T15:55:00.1411551+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-11T15:55:00.1411551+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-11T15:55:00.1411551+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-11T15:55:00.1810129+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T15:55:00.1810129+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-11T15:55:00.1810129+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-11T15:55:00.1979696+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-11T155500.log
+2019-06-11T15:55:00.1999620+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T15:55:00.2049467+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-11T15:55:00.2099321+05:30;Thread#15;Info;Checking license
+2019-06-11T15:55:00.2099321+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T15:55:00.2109299+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T15:55:00.2228975+05:30;Thread#15;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-06-11T15:55:10.2238816+05:30;Thread#15;Info;Evaluation delay finished.
+2019-06-11T15:55:10.2278395+05:30;Thread#15;Info;License check completed
+2019-06-11T15:55:10.2278395+05:30;Thread#15;Info;starting test run
+2019-06-11T15:55:10.2328287+05:30;Thread#15;Info;Discovering target: Default
+2019-06-11T15:55:10.2338256+05:30;Thread#15;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T15:55:10.2697274+05:30:Appdomain Disposed
+2019-06-11T15:55:10.2697274+05:30;Thread#15;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T15:55:10.2697274+05:30:Test Suite Dump
+2019-06-11T15:55:10.2707272+05:30:#0: Unnamed project/ - 
+2019-06-11T15:55:10.2707272+05:30:#1: Default - 
+2019-06-11T15:55:10.2707272+05:30:#2: Assignmnet - 
+2019-06-11T15:55:10.2707272+05:30:#3: Check functionality of website as a user - 
+2019-06-11T15:55:10.2797344+05:30:#4: Register  with Invalid Credentials, Variant 0 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+0
+2019-06-11T15:55:10.2797344+05:30:#5: Register  with Invalid Credentials, Variant 1 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+1
+2019-06-11T15:55:10.2797344+05:30:#6: Register  with Invalid Credentials, Variant 2 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+2
+2019-06-11T15:55:10.2797344+05:30:#7: Register  with Invalid Credentials, Variant 3 - TestAssembly:Assignmnet/Feature:Check+functionality+of+website+as+a+user/Scenario:Register++with+Invalid+Credentials%2c+Variant+3
+2019-06-11T15:55:10.2797344+05:30:End: Test Suite Dump
+2019-06-11T15:55:10.2976527+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:55:10.2986508+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-11T15:55:10.2986508+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T15:55:10.3016747+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:55:10.3016747+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:55:10.3016747+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:55:10.3016747+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T15:55:10.3026395+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T15:55:10.3036365+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T15:55:10.3056334+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-11T15:55:10.3066301+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T15:55:10.3076264+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T15:55:10.3076264+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-11T15:55:10.3495145+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-06-11T15:55:10.5955722+05:30:Thread#0:T:-> Using app.config
+2019-06-11T15:55:10.6465656+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:56:13.8274976+05:30:Thread#0:T:error: The HTTP request to the remote WebDriver server for URL http://localhost:61442/session/0a51ceec2bbefc2932d5cbde2ff0ce5d/url timed out after 60 seconds.
+2019-06-11T15:56:13.8284950+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T15:56:13.8314869+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:13.8314869+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:56:13.8314869+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:13.8314869+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:56:13.8324849+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:13.8484661+05:30:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-11T15:56:13.8484661+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:56:13.8484661+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-11T15:56:13.8484661+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T15:56:13.8484661+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:56:13.8484661+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:56:13.8484661+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:56:13.8484661+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T15:56:13.8484661+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T15:56:13.8484661+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-11T15:56:13.8574173+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 63.5079028 seconds
+2019-06-11T15:56:13.8584161+05:30:Thread#0: Test #4/1 is started on thread #0
+2019-06-11T15:56:13.8594131+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:56:25.0747681+05:30:Thread#0:T:error: unknown error: cannot determine loading status
+2019-06-11T15:56:25.0747681+05:30:Thread#0:T:from disconnected: received Inspector.detached event
+2019-06-11T15:56:25.0747681+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:56:25.0747681+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-11T15:56:25.0747681+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T15:56:25.0757689+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:25.0757689+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:56:25.0767661+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:25.0767661+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:56:25.0777606+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:25.0787578+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:56:25.0787578+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-11T15:56:25.0787578+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-11T15:56:25.0787578+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:56:25.0787578+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:56:25.0787578+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:56:25.0787578+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-11T15:56:25.0787578+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-11T15:56:25.0787578+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-11T15:56:25.0797541+05:30:Thread#0: Test #4/1 is finished on thread #0 as Failed within 11.221338 seconds
+2019-06-11T15:56:25.0867519+05:30:Thread#0: Test #4/2 is started on thread #0
+2019-06-11T15:56:25.0867519+05:30:Thread#0:B:Given Open the Website for testing
+2019-06-11T15:56:43.2406918+05:30:Thread#0:T:error: chrome not reachable
+2019-06-11T15:56:43.2406918+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-11T15:56:43.2406918+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (100)
+2019-06-11T15:56:43.2406918+05:30:Thread#0:B:When I register a new User with '' Username and 'Invalid' Password
+2019-06-11T15:56:43.2406918+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:43.2406918+05:30:Thread#0:B:Then Regestration Details
+2019-06-11T15:56:43.2416886+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:43.2416886+05:30:Thread#0:B:And Generate The token
+2019-06-11T15:56:43.2416886+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T15:56:43.2426864+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T15:56:43.2426864+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-06-11T15:56:43.2426864+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-11T15:56:43.2426864+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T15:56:43.2426864+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-11T15:56:43.2426864+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-11T15:56:43.2426864+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-11T15:56:43.2426864+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-11T15:56:43.2426864+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T15:56:43.2426864+05:30:Thread#0: Test #4/2 is finished on thread #0 as Failed within 18.1559345 seconds
+2019-06-11T15:56:43.2426864+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-06-11T15:56:43.2436839+05:30:Thread#0:B:Given Open the Website for testing

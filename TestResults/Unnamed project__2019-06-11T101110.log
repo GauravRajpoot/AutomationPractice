@@ -1,0 +1,47 @@
+﻿2019-06-11T10:11:10.3385378+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-11T10:11:10.3385378+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-11T10:11:10.3385378+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-11T10:11:10.3794282+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T10:11:10.3804258+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-11T10:11:10.3804258+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-11T10:11:10.3993756+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-11T101110.log
+2019-06-11T10:11:10.4013706+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T10:11:10.4073544+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-11T10:11:10.4133393+05:30;Thread#14;Info;Checking license
+2019-06-11T10:11:10.4133393+05:30;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T10:11:10.4143354+05:30;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T10:11:10.4352795+05:30;Thread#14;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-06-11T10:11:15.4369083+05:30;Thread#14;Info;Evaluation delay finished.
+2019-06-11T10:11:15.4379060+05:30;Thread#14;Info;License check completed
+2019-06-11T10:11:15.4379060+05:30;Thread#14;Info;starting test run
+2019-06-11T10:11:15.4458839+05:30;Thread#14;Info;Discovering target: Default
+2019-06-11T10:11:15.4468807+05:30;Thread#14;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T10:11:15.4887698+05:30:Appdomain Disposed
+2019-06-11T10:11:15.4887698+05:30;Thread#14;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T10:11:15.4897685+05:30:Test Suite Dump
+2019-06-11T10:11:15.4917622+05:30:#0: Unnamed project/ - 
+2019-06-11T10:11:15.4917622+05:30:End: Test Suite Dump
+2019-06-11T10:11:15.5166948+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T10:11:15.5186892+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-11T10:11:15.5186892+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-11T10:11:15.5186892+05:30:Thread#0:Scheduler: No more tests for thread
+2019-06-11T10:11:15.5206845+05:30:Trying to cancel thread
+2019-06-11T10:11:15.5206845+05:30:Thread cancelled
+2019-06-11T10:11:15.5276650+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-11T10:11:15.5276650+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-11T10:11:15.5276650+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-11T10:11:15.5286632+05:30;Thread#14;Info;test run finished
+2019-06-11T10:11:15.5296603+05:30;Thread#14;Info;publishing test results
+2019-06-11T10:11:15.5535975+05:30;Thread#14;Info;test results published
+2019-06-11T10:11:15.5545928+05:30;Thread#14;Info;generating reports
+2019-06-11T10:11:15.6323854+05:30;Thread#14;Info;Starting external report generation process
+2019-06-11T10:11:16.8431481+05:30;Thread#14;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-06-11T10:11:16.8441461+05:30;Thread#14;Error;Error output of external program:
+2019-06-11T10:11:16.8620986+05:30:Total: 0
+2019-06-11T10:11:16.8630969+05:30:Succeeded: 0
+2019-06-11T10:11:16.8640943+05:30:Ignored: 0
+2019-06-11T10:11:16.8640943+05:30:Pending: 0
+2019-06-11T10:11:16.8650900+05:30:Skipped: 0
+2019-06-11T10:11:16.8650900+05:30:Failed: 0
+2019-06-11T10:11:16.8760605+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

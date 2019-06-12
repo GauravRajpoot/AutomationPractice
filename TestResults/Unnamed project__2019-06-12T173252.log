@@ -1,0 +1,71 @@
+﻿2019-06-12T17:32:52.3163674+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-12T17:32:52.3163674+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-12T17:32:52.3163674+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-12T17:32:52.3575371+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T17:32:52.3575371+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-12T17:32:52.3575371+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-12T17:32:52.3756327+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T173252.log
+2019-06-12T17:32:52.3776284+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T17:32:52.3847433+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-12T17:32:52.3886177+05:30;Thread#13;Info;Checking license
+2019-06-12T17:32:52.3895810+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T17:32:52.3905810+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T17:32:52.4015516+05:30;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-06-12T17:33:06.4027043+05:30;Thread#13;Info;Evaluation delay finished.
+2019-06-12T17:33:06.4164129+05:30;Thread#13;Info;License check completed
+2019-06-12T17:33:06.4174078+05:30;Thread#13;Info;starting test run
+2019-06-12T17:33:06.4284406+05:30;Thread#13;Info;Discovering target: Default
+2019-06-12T17:33:06.4284406+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T17:33:06.6903547+05:30:Appdomain Disposed
+2019-06-12T17:33:06.6903547+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T17:33:06.6914192+05:30:Test Suite Dump
+2019-06-12T17:33:06.6921210+05:30:#0: Unnamed project/ - 
+2019-06-12T17:33:06.6921210+05:30:#1: Default - 
+2019-06-12T17:33:06.6921210+05:30:#2: Assignmnet - 
+2019-06-12T17:33:06.6921210+05:30:#3: Check the Login functionality of AutomationPractice.com - 
+2019-06-12T17:33:06.7225792+05:30:#8: Closing the Browser - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:Closing+the+Browser
+2019-06-12T17:33:06.7225792+05:30:End: Test Suite Dump
+2019-06-12T17:33:06.7401338+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T17:33:06.7421283+05:30:Thread#:Scheduler: testitem #8 from normal test queue 
+2019-06-12T17:33:06.7421283+05:30:Thread#0:Scheduler: considering testitem #8 for thread 0
+2019-06-12T17:33:06.7451840+05:30:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T17:33:06.7451840+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2019-06-12T17:33:06.7451840+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2019-06-12T17:33:06.7451840+05:30:Thread#0:Scheduler: using testitem #8 for thread 0
+2019-06-12T17:33:06.7461668+05:30:Thread#0:Scheduler: Test #8 is scheduled for thread
+2019-06-12T17:33:06.7471656+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-12T17:33:06.7492631+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-12T17:33:06.7500189+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T17:33:06.7500189+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T17:33:06.7510161+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-12T17:33:06.7903631+05:30:Thread#0: Test #8/0 is started on thread #0
+2019-06-12T17:33:06.8842792+05:30:Thread#0:T:-> Using app.config
+2019-06-12T17:33:07.0780634+05:30:Thread#0:B:Then Close the Browser
+2019-06-12T17:33:07.1057321+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.ThenCloseTheBrowser() (0.0s)
+2019-06-12T17:33:07.1117157+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T17:33:07.1117157+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-12T17:33:07.1117157+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-12T17:33:07.1117157+05:30:Thread#0:Scheduler: No more tests for thread
+2019-06-12T17:33:07.1242002+05:30:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0.3338371 seconds
+2019-06-12T17:33:07.1292213+05:30:Appdomain Disposed
+2019-06-12T17:33:07.1302217+05:30:Trying to cancel thread
+2019-06-12T17:33:07.1302217+05:30:Thread cancelled
+2019-06-12T17:33:07.1342553+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-12T17:33:07.1342553+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-12T17:33:07.1342553+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-12T17:33:07.1362637+05:30;Thread#13;Info;test run finished
+2019-06-12T17:33:07.1362637+05:30;Thread#13;Info;publishing test results
+2019-06-12T17:33:07.1631570+05:30;Thread#13;Info;test results published
+2019-06-12T17:33:07.1631570+05:30;Thread#13;Info;generating reports
+2019-06-12T17:33:07.2387273+05:30;Thread#13;Info;Starting external report generation process
+2019-06-12T17:33:08.5117826+05:30;Thread#13;Info;Successfully generated reports.
+2019-06-12T17:33:08.5127427+05:30;Thread#13;Info;Successfully generated reports
+2019-06-12T17:33:08.5187136+05:30:Total: 1
+2019-06-12T17:33:08.5206693+05:30:Succeeded: 1
+2019-06-12T17:33:08.5206693+05:30:Ignored: 0
+2019-06-12T17:33:08.5216700+05:30:Pending: 0
+2019-06-12T17:33:08.5216700+05:30:Skipped: 0
+2019-06-12T17:33:08.5216700+05:30:Failed: 0
+2019-06-12T17:33:08.5299974+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-12T17:33:08.5299974+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T173252.html'
+========== End of log file ==========

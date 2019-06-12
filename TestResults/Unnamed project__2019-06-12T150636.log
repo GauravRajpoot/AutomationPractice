@@ -1,0 +1,57 @@
+﻿2019-06-12T15:06:36.2411362+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-12T15:06:36.2411362+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-12T15:06:36.2411362+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-12T15:06:36.2855162+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T15:06:36.2855162+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-12T15:06:36.2855162+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-12T15:06:36.3034160+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-12T150636.log
+2019-06-12T15:06:36.3044110+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T15:06:36.3084676+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-12T15:06:36.3123899+05:30;Thread#15;Info;Checking license
+2019-06-12T15:06:36.3134062+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T15:06:36.3145795+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-12T15:06:36.3273900+05:30;Thread#15;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-06-12T15:06:45.3284103+05:30;Thread#15;Info;Evaluation delay finished.
+2019-06-12T15:06:45.3392357+05:30;Thread#15;Info;License check completed
+2019-06-12T15:06:45.3392357+05:30;Thread#15;Info;starting test run
+2019-06-12T15:06:45.3521452+05:30;Thread#15;Info;Discovering target: Default
+2019-06-12T15:06:45.3531433+05:30;Thread#15;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T15:06:45.3930355+05:30:Appdomain Disposed
+2019-06-12T15:06:45.3930355+05:30;Thread#15;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-12T15:06:45.3930355+05:30:Test Suite Dump
+2019-06-12T15:06:45.3940333+05:30:#0: Unnamed project/ - 
+2019-06-12T15:06:45.3950298+05:30:#1: Default - 
+2019-06-12T15:06:45.3950298+05:30:#2: Assignmnet - 
+2019-06-12T15:06:45.3950298+05:30:#3: Check the Login functionality of AutomationPractice.com - 
+2019-06-12T15:06:45.3950298+05:30:#9: Checking the functionality of flight booking at Expedia.com - 
+2019-06-12T15:06:45.4020112+05:30:#4: For Empty email and vaid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+email+and+vaid+Password
+2019-06-12T15:06:45.4020112+05:30:#5: For Empty Password and valid email - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Password+and+valid+email
+2019-06-12T15:06:45.4020112+05:30:#6: For Invalid Email and Invalid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Invalid+Email+and+Invalid+Password
+2019-06-12T15:06:45.4020112+05:30:#7: For Empty Email and Empty Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Email+and+Empty+Password
+2019-06-12T15:06:45.4020112+05:30:#8: Closing the Browser - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:Closing+the+Browser
+2019-06-12T15:06:45.4020112+05:30:#10: Login in to Expedia - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Login+in+to+Expedia
+2019-06-12T15:06:45.4020112+05:30:#11: Multicity flight booking - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Multicity+flight+booking
+2019-06-12T15:06:45.4020112+05:30:#12: Searchinfg the flight - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Searchinfg+the+flight
+2019-06-12T15:06:45.4020112+05:30:#13: Trip Summary - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Trip+Summary
+2019-06-12T15:06:45.4020112+05:30:#14: ZClosing the Browser - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:ZClosing+the+Browser
+2019-06-12T15:06:45.4020112+05:30:End: Test Suite Dump
+2019-06-12T15:06:45.4200218+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-12T15:06:45.4209932+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-12T15:06:45.4209932+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-12T15:06:45.4249827+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-12T15:06:45.4249827+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-12T15:06:45.4249827+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-12T15:06:45.4249827+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-12T15:06:45.4259799+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-12T15:06:45.4264723+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-12T15:06:45.4279742+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-12T15:06:45.4292076+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T15:06:45.4299373+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-12T15:06:45.4299373+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-12T15:06:45.4728600+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-06-12T15:06:45.6937859+05:30:Thread#0:T:-> Using app.config
+2019-06-12T15:06:45.7402478+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-12T15:06:56.8743126+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (11.0s)
+2019-06-12T15:06:56.8762357+05:30:Thread#0:B:And click on login button
+2019-06-12T15:06:57.3758952+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenClickOnLoginButton() (0.5s)
+2019-06-12T15:06:57.3768927+05:30:Thread#0:B:When Pass the parameter

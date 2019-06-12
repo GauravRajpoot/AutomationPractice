@@ -1,0 +1,200 @@
+﻿2019-06-11T22:31:35.5484430+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-11T22:31:35.5484430+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-11T22:31:35.5484430+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-11T22:31:35.6003038+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T22:31:35.6003038+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-11T22:31:35.6003038+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-11T22:31:35.6182552+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-11T223135.log
+2019-06-11T22:31:35.6192867+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T22:31:35.6252706+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-11T22:31:35.6292251+05:30;Thread#13;Info;Checking license
+2019-06-11T22:31:35.6292251+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T22:31:35.6305309+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-11T22:31:35.6421904+05:30;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2019-06-11T22:31:43.6436756+05:30;Thread#13;Info;Evaluation delay finished.
+2019-06-11T22:31:43.6525076+05:30;Thread#13;Info;License check completed
+2019-06-11T22:31:43.6525076+05:30;Thread#13;Info;starting test run
+2019-06-11T22:31:43.6647921+05:30;Thread#13;Info;Discovering target: Default
+2019-06-11T22:31:43.6654738+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T22:31:43.9204408+05:30:Appdomain Disposed
+2019-06-11T22:31:43.9204408+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-11T22:31:43.9204408+05:30:Test Suite Dump
+2019-06-11T22:31:43.9214372+05:30:#0: Unnamed project/ - 
+2019-06-11T22:31:43.9214372+05:30:#1: Default - 
+2019-06-11T22:31:43.9214372+05:30:#2: Assignmnet - 
+2019-06-11T22:31:43.9214372+05:30:#9: Checking the functionality of flight booking at Expedia.com - 
+2019-06-11T22:31:43.9490743+05:30:#10: Login in to Expedia - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Login+in+to+Expedia
+2019-06-11T22:31:43.9490743+05:30:#11: Multicity flight booking - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Multicity+flight+booking
+2019-06-11T22:31:43.9490743+05:30:#12: Searchinfg the flight - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Searchinfg+the+flight
+2019-06-11T22:31:43.9490743+05:30:End: Test Suite Dump
+2019-06-11T22:31:43.9657355+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T22:31:43.9667324+05:30:Thread#:Scheduler: testitem #10 from normal test queue 
+2019-06-11T22:31:43.9667324+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-06-11T22:31:43.9697244+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T22:31:43.9707217+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-06-11T22:31:43.9707217+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-06-11T22:31:43.9707217+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-06-11T22:31:43.9707217+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-06-11T22:31:43.9720543+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T22:31:43.9737137+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-11T22:31:43.9747109+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T22:31:43.9747109+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-11T22:31:43.9747109+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-11T22:31:44.0126372+05:30:Thread#0: Test #10/0 is started on thread #0
+2019-06-11T22:31:44.0988015+05:30:Thread#0:T:-> Using app.config
+2019-06-11T22:31:44.1446427+05:30:Thread#0:B:Given Open Chrome WebBrowser
+2019-06-11T22:31:44.2935990+05:30:Thread#0:T:error: The file C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\Drivers)\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html
+2019-06-11T22:31:44.2945928+05:30:Thread#0:B:Then Pass the URL of Website
+2019-06-11T22:31:44.2945928+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3081206+05:30:Thread#0:TestItem#10:Scheduler: reschedule tests for testitem #10
+2019-06-11T22:31:44.3085517+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T22:31:44.3085517+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #10
+2019-06-11T22:31:44.3085517+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-06-11T22:31:44.3085517+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T22:31:44.3085517+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-06-11T22:31:44.3085517+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-06-11T22:31:44.3085517+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-06-11T22:31:44.3085517+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-06-11T22:31:44.3085517+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-11T22:31:44.3180183+05:30:Thread#0: Test #10/0 is finished on thread #0 as Failed within 0.3053811 seconds
+2019-06-11T22:31:44.3198044+05:30:Thread#0: Test #10/1 is started on thread #0
+2019-06-11T22:31:44.3198044+05:30:Thread#0:B:Given Open Chrome WebBrowser
+2019-06-11T22:31:44.3208014+05:30:Thread#0:T:error: The file C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\Drivers)\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html
+2019-06-11T22:31:44.3208014+05:30:Thread#0:B:Then Pass the URL of Website
+2019-06-11T22:31:44.3208014+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3218439+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T22:31:44.3218439+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #10
+2019-06-11T22:31:44.3218439+05:30:Thread#0:Scheduler: considering testitem #10 for thread 0
+2019-06-11T22:31:44.3218439+05:30:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T22:31:44.3218439+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2019-06-11T22:31:44.3218439+05:30:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2019-06-11T22:31:44.3218439+05:30:Thread#0:Scheduler: using testitem #10 for thread 0
+2019-06-11T22:31:44.3218439+05:30:Thread#0:Scheduler: Test #10 is scheduled for thread
+2019-06-11T22:31:44.3218439+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-11T22:31:44.3218439+05:30:Thread#0: Test #10/1 is finished on thread #0 as Failed within 0.0020395 seconds
+2019-06-11T22:31:44.3218439+05:30:Thread#0: Test #10/2 is started on thread #0
+2019-06-11T22:31:44.3218439+05:30:Thread#0:B:Given Open Chrome WebBrowser
+2019-06-11T22:31:44.3228436+05:30:Thread#0:T:error: The file C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\Drivers)\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html
+2019-06-11T22:31:44.3228436+05:30:Thread#0:B:Then Pass the URL of Website
+2019-06-11T22:31:44.3238435+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3238435+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T22:31:44.3238435+05:30:Thread#:Scheduler: testitem #11 from normal test queue 
+2019-06-11T22:31:44.3238435+05:30:Thread#0:Scheduler: considering testitem #11 for thread 0
+2019-06-11T22:31:44.3238435+05:30:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T22:31:44.3238435+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2019-06-11T22:31:44.3238435+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2019-06-11T22:31:44.3238435+05:30:Thread#0:Scheduler: using testitem #11 for thread 0
+2019-06-11T22:31:44.3238435+05:30:Thread#0:Scheduler: Test #11 is scheduled for thread
+2019-06-11T22:31:44.3238435+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T22:31:44.3238435+05:30:Thread#0: Test #10/2 is finished on thread #0 as Failed within 0.0019996 seconds
+2019-06-11T22:31:44.3248406+05:30:Thread#0: Test #11/0 is started on thread #0
+2019-06-11T22:31:44.3248406+05:30:Thread#0:B:Then Click on flight tab
+2019-06-11T22:31:44.3268349+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-11T22:31:44.3268349+05:30:Thread#0:B:And Choose MultiCity OPtion
+2019-06-11T22:31:44.3268349+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3268349+05:30:Thread#0:B:Then Pass Source and Destination Place
+2019-06-11T22:31:44.3268349+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3268349+05:30:Thread#0:B:And Choose DateOfJourney and Choose Number of Passengers
+2019-06-11T22:31:44.3278325+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3278325+05:30:Thread#0:B:Then Again choose Source and Destination for second time
+2019-06-11T22:31:44.3278325+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3278325+05:30:Thread#0:B:And Choose DateOfJourney
+2019-06-11T22:31:44.3278325+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3278325+05:30:Thread#0:B:Then Again choose Source  and Destination for third time
+2019-06-11T22:31:44.3288297+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3288297+05:30:Thread#0:B:And Choose DateOfJourney  for return
+2019-06-11T22:31:44.3288297+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3288297+05:30:Thread#0:TestItem#11:Scheduler: reschedule tests for testitem #11
+2019-06-11T22:31:44.3288297+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T22:31:44.3288297+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #11
+2019-06-11T22:31:44.3288297+05:30:Thread#0:Scheduler: considering testitem #11 for thread 0
+2019-06-11T22:31:44.3288297+05:30:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T22:31:44.3288297+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2019-06-11T22:31:44.3288297+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2019-06-11T22:31:44.3288297+05:30:Thread#0:Scheduler: using testitem #11 for thread 0
+2019-06-11T22:31:44.3288297+05:30:Thread#0:Scheduler: Test #11 is scheduled for thread
+2019-06-11T22:31:44.3288297+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-11T22:31:44.3298270+05:30:Thread#0: Test #11/0 is finished on thread #0 as Failed within 0.0049864 seconds
+2019-06-11T22:31:44.3298270+05:30:Thread#0: Test #11/1 is started on thread #0
+2019-06-11T22:31:44.3298270+05:30:Thread#0:B:Then Click on flight tab
+2019-06-11T22:31:44.3308679+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-11T22:31:44.3308679+05:30:Thread#0:B:And Choose MultiCity OPtion
+2019-06-11T22:31:44.3308679+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3308679+05:30:Thread#0:B:Then Pass Source and Destination Place
+2019-06-11T22:31:44.3308679+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3308679+05:30:Thread#0:B:And Choose DateOfJourney and Choose Number of Passengers
+2019-06-11T22:31:44.3308679+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3308679+05:30:Thread#0:B:Then Again choose Source and Destination for second time
+2019-06-11T22:31:44.3318223+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3318223+05:30:Thread#0:B:And Choose DateOfJourney
+2019-06-11T22:31:44.3318223+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3318223+05:30:Thread#0:B:Then Again choose Source  and Destination for third time
+2019-06-11T22:31:44.3318223+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3318223+05:30:Thread#0:B:And Choose DateOfJourney  for return
+2019-06-11T22:31:44.3318223+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3318223+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T22:31:44.3318223+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #11
+2019-06-11T22:31:44.3318223+05:30:Thread#0:Scheduler: considering testitem #11 for thread 0
+2019-06-11T22:31:44.3318223+05:30:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T22:31:44.3318223+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2019-06-11T22:31:44.3318223+05:30:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2019-06-11T22:31:44.3318223+05:30:Thread#0:Scheduler: using testitem #11 for thread 0
+2019-06-11T22:31:44.3318223+05:30:Thread#0:Scheduler: Test #11 is scheduled for thread
+2019-06-11T22:31:44.3318223+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-11T22:31:44.3328192+05:30:Thread#0: Test #11/1 is finished on thread #0 as Failed within 0.0029922 seconds
+2019-06-11T22:31:44.3328192+05:30:Thread#0: Test #11/2 is started on thread #0
+2019-06-11T22:31:44.3328192+05:30:Thread#0:B:Then Click on flight tab
+2019-06-11T22:31:44.3338172+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-11T22:31:44.3338172+05:30:Thread#0:B:And Choose MultiCity OPtion
+2019-06-11T22:31:44.3338172+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3338172+05:30:Thread#0:B:Then Pass Source and Destination Place
+2019-06-11T22:31:44.3338172+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3338172+05:30:Thread#0:B:And Choose DateOfJourney and Choose Number of Passengers
+2019-06-11T22:31:44.3348144+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3348144+05:30:Thread#0:B:Then Again choose Source and Destination for second time
+2019-06-11T22:31:44.3348144+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3348144+05:30:Thread#0:B:And Choose DateOfJourney
+2019-06-11T22:31:44.3348144+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3348144+05:30:Thread#0:B:Then Again choose Source  and Destination for third time
+2019-06-11T22:31:44.3348144+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3348144+05:30:Thread#0:B:And Choose DateOfJourney  for return
+2019-06-11T22:31:44.3348144+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3348144+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-11T22:31:44.3348144+05:30:Thread#:Scheduler: testitem #12 from normal test queue 
+2019-06-11T22:31:44.3358113+05:30:Thread#0:Scheduler: considering testitem #12 for thread 0
+2019-06-11T22:31:44.3358113+05:30:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-11T22:31:44.3358113+05:30:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2019-06-11T22:31:44.3358113+05:30:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2019-06-11T22:31:44.3358113+05:30:Thread#0:Scheduler: using testitem #12 for thread 0
+2019-06-11T22:31:44.3358113+05:30:Thread#0:Scheduler: Test #12 is scheduled for thread
+2019-06-11T22:31:44.3358113+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-11T22:31:44.3358113+05:30:Thread#0: Test #11/2 is finished on thread #0 as Failed within 0.0029921 seconds
+2019-06-11T22:31:44.3358113+05:30:Thread#0: Test #12/0 is started on thread #0
+2019-06-11T22:31:44.3358113+05:30:Thread#0:B:Then Click On the Search BUtton
+2019-06-11T22:31:44.3378058+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-11T22:31:44.3378058+05:30:Thread#0:B:And Display the successfull message
+2019-06-11T22:31:44.3378058+05:30:Thread#0:T:skipped because of previous errors
+2019-06-11T22:31:44.3378058+05:30:Cancelling because configured number of failures reached
+2019-06-11T22:31:44.3388029+05:30:Thread#0: Test #12/0 is finished on thread #0 as Failed within 0.0029916 seconds
+2019-06-11T22:31:44.3428304+05:30:Appdomain Disposed
+2019-06-11T22:31:44.3442917+05:30:Trying to cancel thread
+2019-06-11T22:31:44.3442917+05:30:Thread cancelled
+2019-06-11T22:31:44.3488194+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-11T22:31:44.3488194+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-11T22:31:44.3488194+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-11T22:31:44.3528015+05:30;Thread#13;Info;test run finished
+2019-06-11T22:31:44.3528015+05:30;Thread#13;Info;publishing test results
+2019-06-11T22:31:44.3717465+05:30;Thread#13;Info;test results published
+2019-06-11T22:31:44.3717465+05:30;Thread#13;Info;generating reports
+2019-06-11T22:31:44.4431584+05:30;Thread#13;Info;Starting external report generation process
+2019-06-11T22:31:45.6247236+05:30;Thread#13;Info;Successfully generated reports.
+2019-06-11T22:31:45.6255871+05:30;Thread#13;Info;Successfully generated reports
+2019-06-11T22:31:45.6306262+05:30:Total: 3 (test executions: 7)
+2019-06-11T22:31:45.6324197+05:30:Succeeded: 0
+2019-06-11T22:31:45.6325691+05:30:Ignored: 0
+2019-06-11T22:31:45.6325691+05:30:Pending: 0
+2019-06-11T22:31:45.6325691+05:30:Skipped: 0
+2019-06-11T22:31:45.6335676+05:30:Failed: 3
+2019-06-11T22:31:45.6443048+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-11T22:31:45.6443048+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-11T223135.html'
+========== End of log file ==========
