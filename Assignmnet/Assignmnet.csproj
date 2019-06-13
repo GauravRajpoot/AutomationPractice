@@ -142,6 +142,7 @@
     <Compile Include="StepDefinationFile\SucessfullRegistration.cs" />
     <Compile Include="StepDefinationFile\UnSucessfullRegistrationSteps.cs" />
     <Compile Include="Utilities\BasePage.cs" />
+    <Compile Include="Utilities\ExpediaUtilities.cs" />
     <Compile Include="Utilities\ExtentReport.cs" />
   </ItemGroup>
   <ItemGroup>

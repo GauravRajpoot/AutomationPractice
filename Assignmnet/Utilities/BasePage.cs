@@ -10,7 +10,7 @@ namespace Assignmnet.Utilities
 {
     public class BasePage
     {
-
+        public string Url = "https://www.expedia.co.in/";
 
         public static IWebDriver driver;
 
@@ -18,6 +18,12 @@ namespace Assignmnet.Utilities
         {
             driver = new ChromeDriver(@"C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\Drivers");
             driver.Manage().Window.Maximize();
+        }
+
+        public void Expediainvoked()
+        {
+            driver.Navigate().GoToUrl(Url);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
         }
     }
 }
