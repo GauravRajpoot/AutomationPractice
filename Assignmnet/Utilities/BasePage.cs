@@ -11,10 +11,10 @@ namespace Assignmnet.Utilities
     public class BasePage
     {
         public string Url = "https://www.expedia.co.in/";
-
+       public string Weburl = "http://automationpractice.com/index.php";
         public static IWebDriver driver;
 
-        public void invokeDriver()
+        public void InvokeDriver()
         {
             driver = new ChromeDriver(@"C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\Drivers");
             driver.Manage().Window.Maximize();
@@ -25,5 +25,15 @@ namespace Assignmnet.Utilities
             driver.Navigate().GoToUrl(Url);
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
         }
+        public void AutomationPractice()
+        {
+            driver.Navigate().GoToUrl(Weburl);
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
+        }
+        public void quitdriver()
+        {
+            driver.Quit();
+        }
     }
+
 }

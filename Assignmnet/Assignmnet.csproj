@@ -141,6 +141,7 @@
     <Compile Include="StepDefinationFile\ListOfUsers.cs" />
     <Compile Include="StepDefinationFile\SucessfullRegistration.cs" />
     <Compile Include="StepDefinationFile\UnSucessfullRegistrationSteps.cs" />
+    <Compile Include="Utilities\AutomationPractice.cs" />
     <Compile Include="Utilities\BasePage.cs" />
     <Compile Include="Utilities\ExpediaUtilities.cs" />
     <Compile Include="Utilities\ExtentReport.cs" />

@@ -11,73 +11,79 @@ namespace Assignmnet.StepDefinationFile
 {
   
     [Binding]
-    public class CheckTheLoginFunctionalityOfAutomationPractice_ComSteps:BasePage
+    public class CheckTheLoginFunctionalityOfAutomationPractice_ComSteps:AutomationPractice
     {
-        string Weburl = "http://automationpractice.com/index.php";
+
+        BasePage chromedriver = new BasePage();
 
         [Given(@"I have navigated to the website")]
         public void GivenIHaveNavigatedToTheWebsite()
         {
-
-                invokeDriver();
-                driver.Navigate().GoToUrl(Weburl);
-                driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
-                string title = driver.Title;
-                
+            chromedriver.InvokeDriver();
+            chromedriver.AutomationPractice();
            
         }
         
         [Given(@"click on login button")]
         public void GivenClickOnLoginButton()
         {
-            driver.FindElement(By.XPath("//a[@class='login']")).Click();
+            Clickon(LoginButton);
         }
-        
+        /*
+         In this we are passing empty email and valid password
+         */
         [When(@"Pass the parameter")]
         public void WhenPassTheParameter()
         {
-            driver.FindElement(By.XPath("//input[@id='email']")).Click();
-            driver.FindElement(By.XPath("//input[@id='email']")).SendKeys("");
-            driver.FindElement(By.XPath("//input[@id='passwd']")).Click();
-            driver.FindElement(By.XPath("//input[@id='passwd']")).SendKeys("gauravrajpoot.com");
-            
-            driver.FindElement(By.XPath("//p[@class='submit']//span[1]")).Click();
+            Clickon(EmailInputField);
+            Passkeys(EmailInputField, "");
+            Clickon(PasswordInputFiled);
+            Passkeys(PasswordInputFiled, "gauravrajpoot.com");
+            Clickon(SubmitButton);
         }
-
+        /*
+        In this we are passing valid email and empty password
+        */
         [When(@"Pass the parameters")]
         public void WhenPassTheParameters()
         {
-            driver.FindElement(By.XPath("//input[@id='email']")).Click();
-            driver.FindElement(By.XPath("//input[@id='email']")).SendKeys("gaurav@gmail.com");
-            driver.FindElement(By.XPath("//input[@id='passwd']")).Click();
-            driver.FindElement(By.XPath("//input[@id='passwd']")).SendKeys("");
-            driver.FindElement(By.XPath("//p[@class='submit']//span[1]")).Click();
+            Clickon(EmailInputField);
+            Passkeys(EmailInputField, "gaurav@gmail.com");
+            Clickon(PasswordInputFiled);
+            Passkeys(PasswordInputFiled, "");
+            Clickon(SubmitButton);
 
         }
-
+        /*
+        In this we are passing invalid email and invalid password
+        */
         [When(@"Pass the Arguments")]
         public void WhenPassTheArguments()
         {
-            driver.FindElement(By.XPath("//input[@id='email']")).Click();
-            driver.FindElement(By.XPath("//input[@id='email']")).SendKeys("gaurav");
-            driver.FindElement(By.XPath("//input[@id='passwd']")).Click();
-            driver.FindElement(By.XPath("//input[@id='passwd']")).SendKeys("rajpoot");            driver.FindElement(By.XPath("//p[@class='submit']//span[1]")).Click();
-            driver.FindElement(By.XPath("//p[@class='submit']//span[1]")).Click();
+            Clickon(EmailInputField);
+            Passkeys(EmailInputField, "gaurav");
+            Clickon(PasswordInputFiled);
+            Passkeys(PasswordInputFiled, "rajpoot");
+            Clickon(SubmitButton);
 
 
         }
-
+        /*
+        In this we are passing empty email and empty password
+        */
         [When(@"No Argument is passed")]
         public void WhenNoArgumentIsPassed()
         {
-            driver.FindElement(By.XPath("//input[@id='email']")).Click();
-            driver.FindElement(By.XPath("//input[@id='email']")).SendKeys("");
-            driver.FindElement(By.XPath("//input[@id='passwd']")).Click();
-            driver.FindElement(By.XPath("//input[@id='passwd']")).SendKeys("");
-            driver.FindElement(By.XPath("//p[@class='submit']//span[1]")).Click();
-
+            Clickon(EmailInputField);
+            Passkeys(EmailInputField, "");
+            Clickon(PasswordInputFiled);
+            Passkeys(PasswordInputFiled, "");
+            Clickon(SubmitButton);
         }
 
+        /*
+        Now we are printing on to the console the respective values
+        */
         [Then(@"Message is Displayed")]
         public void ThenMessageIsDisplayed()
         {
@@ -106,7 +112,7 @@ namespace Assignmnet.StepDefinationFile
         [Then(@"Close th Browser")]
         public void ThenCloseThBrowser()
         {
-            driver.Quit();
+            chromedriver.quitdriver();   
         }
     }
 

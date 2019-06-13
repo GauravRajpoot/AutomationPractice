@@ -1,0 +1,228 @@
+﻿2019-06-13T16:37:22.7602308+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-13T16:37:22.7602308+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-13T16:37:22.7602308+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-13T16:37:22.8013692+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-13T16:37:22.8013692+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-13T16:37:22.8013692+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-13T16:37:22.8223114+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-13T163722.log
+2019-06-13T16:37:22.8233092+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-13T16:37:22.8302900+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-13T16:37:22.8342800+05:30;Thread#13;Info;Checking license
+2019-06-13T16:37:22.8342800+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-13T16:37:22.8352774+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-13T16:37:22.8463116+05:30;Thread#13;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2019-06-13T16:37:28.8471671+05:30;Thread#13;Info;Evaluation delay finished.
+2019-06-13T16:37:28.8580890+05:30;Thread#13;Info;License check completed
+2019-06-13T16:37:28.8580890+05:30;Thread#13;Info;starting test run
+2019-06-13T16:37:28.8650840+05:30;Thread#13;Info;Discovering target: Default
+2019-06-13T16:37:28.8650840+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-13T16:37:29.1138919+05:30:Appdomain Disposed
+2019-06-13T16:37:29.1138919+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-13T16:37:29.1144120+05:30:Test Suite Dump
+2019-06-13T16:37:29.1153963+05:30:#0: Unnamed project/ - 
+2019-06-13T16:37:29.1153963+05:30:#1: Default - 
+2019-06-13T16:37:29.1153963+05:30:#2: Assignmnet - 
+2019-06-13T16:37:29.1153963+05:30:#3: Check the Login functionality of AutomationPractice.com - 
+2019-06-13T16:37:29.1433844+05:30:#4: For Empty email and vaid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+email+and+vaid+Password
+2019-06-13T16:37:29.1433844+05:30:#5: For Empty Password and valid email - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Password+and+valid+email
+2019-06-13T16:37:29.1433844+05:30:#6: For Invalid Email and Invalid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Invalid+Email+and+Invalid+Password
+2019-06-13T16:37:29.1433844+05:30:#7: For Empty Email and Empty Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Email+and+Empty+Password
+2019-06-13T16:37:29.1433844+05:30:End: Test Suite Dump
+2019-06-13T16:37:29.1679480+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T16:37:29.1700011+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-13T16:37:29.1700011+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-13T16:37:29.1739340+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T16:37:29.1739340+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-13T16:37:29.1739340+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-13T16:37:29.1739340+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-13T16:37:29.1743768+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-13T16:37:29.1754336+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-13T16:37:29.1773969+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-13T16:37:29.1783894+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-13T16:37:29.1793551+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-13T16:37:29.1793551+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-13T16:37:29.2162527+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-06-13T16:37:29.3032530+05:30:Thread#0:T:-> Using app.config
+2019-06-13T16:37:29.4764630+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T16:37:32.5512623+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (3.0s)
+2019-06-13T16:37:32.5522420+05:30:Thread#0:B:And click on login button
+2019-06-13T16:37:32.5994750+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+2019-06-13T16:37:32.5994750+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T16:37:32.5994750+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T16:37:32.5994750+05:30:Thread#0:B:When Pass the parameter
+2019-06-13T16:37:32.5994750+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:32.6004718+05:30:Thread#0:B:Then Message is Displayed
+2019-06-13T16:37:32.6005984+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:32.6005984+05:30:Thread#0:B:And Close th Browser
+2019-06-13T16:37:32.6005984+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:32.6226318+05:30:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-13T16:37:32.6236409+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T16:37:32.6236409+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-13T16:37:32.6236409+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-13T16:37:32.6236409+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T16:37:32.6236409+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-13T16:37:32.6236409+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-13T16:37:32.6236409+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-13T16:37:32.6236409+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-13T16:37:32.6236409+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-13T16:37:32.6450594+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 3.4288067 seconds
+2019-06-13T16:37:32.6480498+05:30:Thread#0: Test #4/1 is started on thread #0
+2019-06-13T16:37:32.6480498+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T16:37:35.9172580+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (3.3s)
+2019-06-13T16:37:35.9172580+05:30:Thread#0:B:And click on login button
+2019-06-13T16:37:35.9327549+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+2019-06-13T16:37:35.9327549+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T16:37:35.9327549+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T16:37:35.9327549+05:30:Thread#0:B:When Pass the parameter
+2019-06-13T16:37:35.9327549+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:35.9337518+05:30:Thread#0:B:Then Message is Displayed
+2019-06-13T16:37:35.9337518+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:35.9337518+05:30:Thread#0:B:And Close th Browser
+2019-06-13T16:37:35.9337518+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:35.9342743+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T16:37:35.9342743+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-13T16:37:35.9342743+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-13T16:37:35.9342743+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T16:37:35.9342743+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-13T16:37:35.9342743+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-13T16:37:35.9342743+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-13T16:37:35.9342743+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-13T16:37:35.9342743+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-13T16:37:35.9342743+05:30:Thread#0: Test #4/1 is finished on thread #0 as Failed within 3.2862245 seconds
+2019-06-13T16:37:35.9342743+05:30:Thread#0: Test #4/2 is started on thread #0
+2019-06-13T16:37:35.9352548+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T16:37:39.2014485+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (3.3s)
+2019-06-13T16:37:39.2014485+05:30:Thread#0:B:And click on login button
+2019-06-13T16:37:39.2200626+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+2019-06-13T16:37:39.2200626+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T16:37:39.2209492+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T16:37:39.2209492+05:30:Thread#0:B:When Pass the parameter
+2019-06-13T16:37:39.2209492+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:39.2209492+05:30:Thread#0:B:Then Message is Displayed
+2019-06-13T16:37:39.2209492+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:39.2209492+05:30:Thread#0:B:And Close th Browser
+2019-06-13T16:37:39.2209492+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:39.2209492+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T16:37:39.2209492+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-06-13T16:37:39.2209492+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-13T16:37:39.2209492+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T16:37:39.2209492+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-13T16:37:39.2209492+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-13T16:37:39.2219460+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-13T16:37:39.2219460+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-13T16:37:39.2219460+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-13T16:37:39.2219460+05:30:Thread#0: Test #4/2 is finished on thread #0 as Failed within 3.2876717 seconds
+2019-06-13T16:37:39.2219460+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-06-13T16:37:39.2219460+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T16:37:42.4968873+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (3.3s)
+2019-06-13T16:37:42.4968873+05:30:Thread#0:B:And click on login button
+2019-06-13T16:37:42.5218192+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+2019-06-13T16:37:42.5218192+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T16:37:42.5228164+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T16:37:42.5228164+05:30:Thread#0:B:When Pass the parameters
+2019-06-13T16:37:42.5228164+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:42.5228164+05:30:Thread#0:B:Then Unsucessfull Message is displayed
+2019-06-13T16:37:42.5228164+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:42.5238143+05:30:Thread#0:B:And Close th Browser
+2019-06-13T16:37:42.5240138+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:42.5240138+05:30:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2019-06-13T16:37:42.5240138+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T16:37:42.5240138+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-06-13T16:37:42.5240138+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-13T16:37:42.5240138+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T16:37:42.5240138+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-13T16:37:42.5240138+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-13T16:37:42.5240138+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-13T16:37:42.5240138+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-13T16:37:42.5240138+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-13T16:37:42.5251302+05:30:Thread#0: Test #5/0 is finished on thread #0 as Failed within 3.3031842 seconds
+2019-06-13T16:37:42.5251302+05:30:Thread#0: Test #5/1 is started on thread #0
+2019-06-13T16:37:42.5251302+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T16:37:45.9849148+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (3.5s)
+2019-06-13T16:37:45.9859121+05:30:Thread#0:B:And click on login button
+2019-06-13T16:37:46.0046411+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+2019-06-13T16:37:46.0046411+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T16:37:46.0046411+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T16:37:46.0056191+05:30:Thread#0:B:When Pass the parameters
+2019-06-13T16:37:46.0056191+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:46.0056191+05:30:Thread#0:B:Then Unsucessfull Message is displayed
+2019-06-13T16:37:46.0056191+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:46.0056191+05:30:Thread#0:B:And Close th Browser
+2019-06-13T16:37:46.0056191+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:46.0066159+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T16:37:46.0066159+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-06-13T16:37:46.0066159+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-13T16:37:46.0066159+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T16:37:46.0066159+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-13T16:37:46.0066159+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-13T16:37:46.0066159+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-13T16:37:46.0066159+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-13T16:37:46.0066159+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-13T16:37:46.0066159+05:30:Thread#0: Test #5/1 is finished on thread #0 as Failed within 3.4814857 seconds
+2019-06-13T16:37:46.0066159+05:30:Thread#0: Test #5/2 is started on thread #0
+2019-06-13T16:37:46.0066159+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T16:37:49.4284152+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (3.4s)
+2019-06-13T16:37:49.4284152+05:30:Thread#0:B:And click on login button
+2019-06-13T16:37:49.4489913+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+2019-06-13T16:37:49.4489913+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T16:37:49.4489913+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T16:37:49.4489913+05:30:Thread#0:B:When Pass the parameters
+2019-06-13T16:37:49.4489913+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:49.4499848+05:30:Thread#0:B:Then Unsucessfull Message is displayed
+2019-06-13T16:37:49.4499848+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:49.4499848+05:30:Thread#0:B:And Close th Browser
+2019-06-13T16:37:49.4499848+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:49.4499848+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T16:37:49.4499848+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-06-13T16:37:49.4499848+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-06-13T16:37:49.4499848+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T16:37:49.4499848+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-06-13T16:37:49.4499848+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-06-13T16:37:49.4499848+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-06-13T16:37:49.4499848+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-06-13T16:37:49.4499848+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-13T16:37:49.4509825+05:30:Thread#0: Test #5/2 is finished on thread #0 as Failed within 3.4443666 seconds
+2019-06-13T16:37:49.4514437+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-06-13T16:37:49.4514437+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T16:37:53.4883289+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (4.0s)
+2019-06-13T16:37:53.4883289+05:30:Thread#0:B:And click on login button
+2019-06-13T16:37:53.5228822+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+2019-06-13T16:37:53.5228822+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T16:37:53.5228822+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T16:37:53.5228822+05:30:Thread#0:B:When Pass the Arguments
+2019-06-13T16:37:53.5228822+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:53.5239143+05:30:Thread#0:B:Then Unsucessfull Message is shown
+2019-06-13T16:37:53.5239143+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:53.5239143+05:30:Thread#0:B:And Close th Browser
+2019-06-13T16:37:53.5244773+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T16:37:53.5244773+05:30:Cancelling because configured number of failures reached
+2019-06-13T16:37:53.5304152+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 4.0789715 seconds
+2019-06-13T16:37:53.5434549+05:30:Appdomain Disposed
+2019-06-13T16:37:53.5465109+05:30:Trying to cancel thread
+2019-06-13T16:37:53.5465109+05:30:Thread cancelled
+2019-06-13T16:37:53.5604079+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-13T16:37:53.5604079+05:30:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-06-13T16:37:53.5604079+05:30:Thread#-1:Scheduler: considering testitem #7 for thread -1
+2019-06-13T16:37:53.5604079+05:30:Thread#-1:Scheduler: using testitem #7 for thread -1
+2019-06-13T16:37:53.5604079+05:30:Thread#-1:Scheduler: Test #7 is scheduled for thread
+2019-06-13T16:37:53.5614066+05:30:Thread#-1: Test #7/0 is started on thread #-1
+2019-06-13T16:37:53.5614066+05:30:Thread#-1: Test #7/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-13T16:37:53.5614066+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-13T16:37:53.5614066+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-13T16:37:53.5614066+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-13T16:37:53.5713748+05:30;Thread#13;Info;test run finished
+2019-06-13T16:37:53.5713748+05:30;Thread#13;Info;publishing test results
+2019-06-13T16:37:53.6171711+05:30;Thread#13;Info;test results published
+2019-06-13T16:37:53.6171711+05:30;Thread#13;Info;generating reports
+2019-06-13T16:37:53.7888206+05:30;Thread#13;Info;Starting external report generation process
+2019-06-13T16:37:56.0569112+05:30;Thread#13;Info;Successfully generated reports.
+2019-06-13T16:37:56.0579092+05:30;Thread#13;Info;Successfully generated reports
+2019-06-13T16:37:56.0684168+05:30:Total: 4 (test executions: 8)
+2019-06-13T16:37:56.0704306+05:30:Succeeded: 0
+2019-06-13T16:37:56.0714091+05:30:Ignored: 0
+2019-06-13T16:37:56.0714091+05:30:Pending: 0
+2019-06-13T16:37:56.0714091+05:30:Skipped: 1
+2019-06-13T16:37:56.0724064+05:30:Failed: 3
+2019-06-13T16:37:56.0844681+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-13T16:37:56.0851642+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-13T163722.html'
+========== End of log file ==========

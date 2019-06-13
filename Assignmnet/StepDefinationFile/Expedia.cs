@@ -14,7 +14,7 @@ namespace Assignmnet.StepDefinationFile
         public void GivenOpenChromeWebBrowser()
         {
             BasePage webintializer = new BasePage();
-            webintializer.invokeDriver();
+            webintializer.InvokeDriver();
         }
         
         [When(@"Report are generate")]
