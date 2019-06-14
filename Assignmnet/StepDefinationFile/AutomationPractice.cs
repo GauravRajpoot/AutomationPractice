@@ -87,32 +87,39 @@ namespace Assignmnet.StepDefinationFile
         [Then(@"Message is Displayed")]
         public void ThenMessageIsDisplayed()
         {
-            Console.WriteLine("An email address required.");
+            string message=driver.FindElement(By.XPath("//div/ol/li")).Text;
+
+            Assert.AreEqual(message, "An email address required.");
         }
         
         [Then(@"Unsucessfull Message is displayed")]
         public void ThenUnsucessfullMessageIsDisplayed()
         {
-            Console.WriteLine("Password is required.");
+            string message = driver.FindElement(By.XPath("//div/ol/li")).Text;
+            Assert.AreEqual(message, "Password is required.");
         }
         
         [Then(@"Unsucessfull Message is shown")]
         public void ThenUnsucessfullMessageIsShown()
         {
-            Console.WriteLine("Invalid email address.");
+            string message = driver.FindElement(By.XPath("//div/ol/li")).Text;
+            Assert.AreEqual(message, "Invalid email address.");
+           
         }
         
         [Then(@"Message is displayed accordingly")]
         public void ThenMessageIsDisplayedAccordingly()
         {
-            Console.WriteLine("An email address required.");
+            string message = driver.FindElement(By.XPath("//div/ol/li")).Text;
+            Assert.AreEqual(message, "An email address required.");
+            
         }
 
 
         [Then(@"Close th Browser")]
         public void ThenCloseThBrowser()
         {
-            chromedriver.quitdriver();   
+            chromedriver.Quitdriver();   
         }
     }
 

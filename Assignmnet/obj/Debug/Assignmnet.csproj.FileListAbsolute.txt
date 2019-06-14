@@ -172,7 +172,9 @@ C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Mon
 C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Newtonsoft.Json.xml
 C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\RestSharp.xml
 C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\WebDriver.xml
+C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\obj\Debug\Assignmnet.csprojAssemblyReference.cache
 C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\obj\Debug\Assignmnet.csproj.CoreCompileInputs.cache
 C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\obj\Debug\Assignmnet.csproj.CopyComplete
 C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\obj\Debug\Assignmnet.dll
 C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\obj\Debug\Assignmnet.pdb
+C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Default.srprofile

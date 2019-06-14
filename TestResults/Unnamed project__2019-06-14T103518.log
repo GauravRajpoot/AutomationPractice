@@ -1,0 +1,226 @@
+﻿2019-06-14T10:35:18.2926659+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-14T10:35:18.2926659+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-14T10:35:18.2926659+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-14T10:35:18.3156361+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-14T10:35:18.3156361+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-14T10:35:18.3166308+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-14T10:35:18.3322514+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-14T103518.log
+2019-06-14T10:35:18.3332474+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-14T10:35:18.3372401+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-14T10:35:18.3401928+05:30;Thread#15;Info;Checking license
+2019-06-14T10:35:18.3411904+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-14T10:35:18.3412470+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-14T10:35:18.3532076+05:30;Thread#15;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-06-14T10:35:30.3545966+05:30;Thread#15;Info;Evaluation delay finished.
+2019-06-14T10:35:30.3707994+05:30;Thread#15;Info;License check completed
+2019-06-14T10:35:30.3707994+05:30;Thread#15;Info;starting test run
+2019-06-14T10:35:30.3865428+05:30;Thread#15;Info;Discovering target: Default
+2019-06-14T10:35:30.3875019+05:30;Thread#15;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-14T10:35:30.4289947+05:30:Appdomain Disposed
+2019-06-14T10:35:30.4289947+05:30;Thread#15;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-14T10:35:30.4295460+05:30:Test Suite Dump
+2019-06-14T10:35:30.4303874+05:30:#0: Unnamed project/ - 
+2019-06-14T10:35:30.4303874+05:30:#1: Default - 
+2019-06-14T10:35:30.4303874+05:30:#2: Assignmnet - 
+2019-06-14T10:35:30.4303874+05:30:#3: Check the Login functionality of AutomationPractice.com - 
+2019-06-14T10:35:30.4303874+05:30:#8: Checking Api Response - 
+2019-06-14T10:35:30.4303874+05:30:#10: UnSucessfull Registration - 
+2019-06-14T10:35:30.4303874+05:30:#12: Taking the list of user - 
+2019-06-14T10:35:30.4303874+05:30:#14: Checking the functionality of flight booking at Expedia.com - 
+2019-06-14T10:35:30.4403596+05:30:#4: For Empty email and vaid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+email+and+vaid+Password
+2019-06-14T10:35:30.4403596+05:30:#5: For Empty Password and valid email - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Password+and+valid+email
+2019-06-14T10:35:30.4403596+05:30:#6: For Invalid Email and Invalid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Invalid+Email+and+Invalid+Password
+2019-06-14T10:35:30.4403596+05:30:#7: For Empty Email and Empty Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Email+and+Empty+Password
+2019-06-14T10:35:30.4403596+05:30:#9: Checking Response through restapi - TestAssembly:Assignmnet/Feature:Checking+Api+Response/Scenario:Checking+Response+through+restapi
+2019-06-14T10:35:30.4403596+05:30:#11: Checking the unsucessfull registration - TestAssembly:Assignmnet/Feature:UnSucessfull+Registration/Scenario:Checking+the+unsucessfull+registration
+2019-06-14T10:35:30.4403596+05:30:#13: Fetching the list of users - TestAssembly:Assignmnet/Feature:Taking+the+list+of+user/Scenario:Fetching+the+list+of+users
+2019-06-14T10:35:30.4403596+05:30:#15: Login in to Expedia - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Login+in+to+Expedia
+2019-06-14T10:35:30.4403596+05:30:#16: Multicity flight booking - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Multicity+flight+booking
+2019-06-14T10:35:30.4403596+05:30:#17: Searchinfg the flight - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Searchinfg+the+flight
+2019-06-14T10:35:30.4403596+05:30:#18: Trip Summary - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Trip+Summary
+2019-06-14T10:35:30.4403596+05:30:#19: ZClosing the Browser - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:ZClosing+the+Browser
+2019-06-14T10:35:30.4403596+05:30:End: Test Suite Dump
+2019-06-14T10:35:30.4592731+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T10:35:30.4602706+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-14T10:35:30.4602706+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-14T10:35:30.4642598+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T10:35:30.4642598+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-14T10:35:30.4642598+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-14T10:35:30.4642598+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-14T10:35:30.4652572+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-14T10:35:30.4659850+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-14T10:35:30.4672518+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-14T10:35:30.4692465+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-14T10:35:30.4692465+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-14T10:35:30.4692465+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-14T10:35:30.5041529+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-06-14T10:35:30.7246203+05:30:Thread#0:T:-> Using app.config
+2019-06-14T10:35:30.9058055+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-14T10:35:39.8491636+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (8.9s)
+2019-06-14T10:35:39.9220160+05:30:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-14T10:35:39.9230002+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T10:35:39.9230002+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-14T10:35:39.9230002+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-14T10:35:39.9230002+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T10:35:39.9230002+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-14T10:35:39.9230002+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-14T10:35:39.9230002+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-14T10:35:39.9230002+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-14T10:35:39.9230002+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-14T10:35:39.9409623+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 9.4368094 seconds
+2019-06-14T10:35:39.9439086+05:30:Thread#0: Test #4/1 is started on thread #0
+2019-06-14T10:35:39.9449064+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-14T10:35:49.5854583+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (9.6s)
+2019-06-14T10:35:49.5894475+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T10:35:49.5894475+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-14T10:35:49.5904483+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-14T10:35:49.5904483+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T10:35:49.5904483+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-14T10:35:49.5904483+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-14T10:35:49.5904483+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-14T10:35:49.5904483+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-14T10:35:49.5904483+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-14T10:35:49.5914881+05:30:Thread#0: Test #4/1 is finished on thread #0 as Failed within 9.6475795 seconds
+2019-06-14T10:35:49.5924936+05:30:Thread#0: Test #4/2 is started on thread #0
+2019-06-14T10:35:49.5934389+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-14T10:35:58.8820989+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (9.3s)
+2019-06-14T10:35:58.8859859+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T10:35:58.8859859+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-06-14T10:35:58.8859859+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-14T10:35:58.8859859+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T10:35:58.8859859+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-14T10:35:58.8859859+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-14T10:35:58.8859859+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-14T10:35:58.8859859+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-14T10:35:58.8859859+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-14T10:35:58.8879767+05:30:Thread#0: Test #4/2 is finished on thread #0 as Failed within 9.2954831 seconds
+2019-06-14T10:35:58.8889815+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-06-14T10:35:58.8899690+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-14T10:36:08.8643811+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (10.0s)
+2019-06-14T10:36:08.8673550+05:30:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2019-06-14T10:36:08.8673550+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T10:36:08.8673550+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-06-14T10:36:08.8673550+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-14T10:36:08.8673550+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T10:36:08.8673550+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-14T10:36:08.8673550+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-14T10:36:08.8673550+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-14T10:36:08.8673550+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-14T10:36:08.8673550+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-14T10:36:08.8684257+05:30:Thread#0: Test #5/0 is finished on thread #0 as Failed within 9.9794442 seconds
+2019-06-14T10:36:08.8695038+05:30:Thread#0: Test #5/1 is started on thread #0
+2019-06-14T10:36:08.8703375+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-14T10:36:17.9414716+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (9.1s)
+2019-06-14T10:36:17.9464565+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T10:36:17.9464565+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-06-14T10:36:17.9464565+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-14T10:36:17.9464565+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T10:36:17.9464565+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-14T10:36:17.9464565+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-14T10:36:17.9464565+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-14T10:36:17.9464565+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-14T10:36:17.9464565+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-14T10:36:17.9474543+05:30:Thread#0: Test #5/1 is finished on thread #0 as Failed within 9.0779505 seconds
+2019-06-14T10:36:17.9484513+05:30:Thread#0: Test #5/2 is started on thread #0
+2019-06-14T10:36:17.9484513+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-14T10:36:27.2087075+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (9.3s)
+2019-06-14T10:36:27.2107050+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T10:36:27.2107050+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-06-14T10:36:27.2107050+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-06-14T10:36:27.2107050+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T10:36:27.2107050+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-06-14T10:36:27.2107050+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-06-14T10:36:27.2107050+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-06-14T10:36:27.2107050+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-06-14T10:36:27.2107050+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-14T10:36:27.2246649+05:30:Thread#0: Test #5/2 is finished on thread #0 as Failed within 9.2762136 seconds
+2019-06-14T10:36:27.2257002+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-06-14T10:36:27.2257002+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-14T10:36:36.0526317+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (8.8s)
+2019-06-14T10:36:36.0550002+05:30:Cancelling because configured number of failures reached
+2019-06-14T10:36:38.8270693+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 11.6013691 seconds
+2019-06-14T10:36:38.8420477+05:30:Appdomain Disposed
+2019-06-14T10:36:38.8440412+05:30:Trying to cancel thread
+2019-06-14T10:36:38.8440412+05:30:Thread cancelled
+2019-06-14T10:36:38.8490602+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8490602+05:30:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-06-14T10:36:38.8490602+05:30:Thread#-1:Scheduler: considering testitem #7 for thread -1
+2019-06-14T10:36:38.8490602+05:30:Thread#-1:Scheduler: using testitem #7 for thread -1
+2019-06-14T10:36:38.8490602+05:30:Thread#-1:Scheduler: Test #7 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #7/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #7/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #9 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #9 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #9 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #9 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #9/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #9/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #11 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #11 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #11 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #11 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #11/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #11/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #13 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #13 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #13 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #13 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #13/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #13/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #15 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #15 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #15 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #15 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #15/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #15/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #16 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #16 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #16 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #16 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #16/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #16/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #17 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #17 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #17 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #17 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #17/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #17/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #18 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #18 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #18 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #18 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #18/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #18/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: testitem #19 from normal test queue 
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: considering testitem #19 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: using testitem #19 for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: Test #19 is scheduled for thread
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #19/0 is started on thread #-1
+2019-06-14T10:36:38.8500248+05:30:Thread#-1: Test #19/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T10:36:38.8500248+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-14T10:36:38.8500248+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-14T10:36:38.8550136+05:30;Thread#15;Info;test run finished
+2019-06-14T10:36:38.8550136+05:30;Thread#15;Info;publishing test results
+2019-06-14T10:36:38.8739994+05:30;Thread#15;Info;test results published
+2019-06-14T10:36:38.8739994+05:30;Thread#15;Info;generating reports
+2019-06-14T10:36:38.9467974+05:30;Thread#15;Info;Starting external report generation process
+2019-06-14T10:36:40.3657636+05:30;Thread#15;Info;Successfully generated reports.
+2019-06-14T10:36:40.3663836+05:30;Thread#15;Info;Successfully generated reports
+2019-06-14T10:36:40.3733636+05:30:Total: 12 (test executions: 16)
+2019-06-14T10:36:40.3753576+05:30:Succeeded: 0
+2019-06-14T10:36:40.3753576+05:30:Ignored: 0
+2019-06-14T10:36:40.3765254+05:30:Pending: 0
+2019-06-14T10:36:40.3765254+05:30:Skipped: 9
+2019-06-14T10:36:40.3765254+05:30:Failed: 3
+2019-06-14T10:36:40.3843762+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-14T10:36:40.3843762+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-14T103518.html'
+========== End of log file ==========

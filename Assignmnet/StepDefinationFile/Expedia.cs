@@ -10,10 +10,11 @@ namespace Assignmnet.StepDefinationFile
     [Binding]
     public class CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps:ExpediaUtilities
     {
-       [Given(@"Open Chrome WebBrowser")]
+        BasePage webintializer = new BasePage();
+        [Given(@"Open Chrome WebBrowser")]
         public void GivenOpenChromeWebBrowser()
         {
-            BasePage webintializer = new BasePage();
+            
             webintializer.InvokeDriver();
         }
         
@@ -123,41 +124,24 @@ namespace Assignmnet.StepDefinationFile
             //string amountPerPerson = driver.FindElement(By.XPath("/html[1]/body[1]/div[2]/div[7]/section[1]/div[1]/div[10]/ul[1]/li[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]")).Text;
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
           string amount1=  driver.FindElement(By.XPath("/html[1]/body[1]/div[2]/div[7]/section[1]/div[1]/div[10]/ul[1]/li[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]")).Text;
-            string amount2 = amount1.Substring(2);
-            string[] amt = amount2.Split(',');
-            string totalAmt="";
-            foreach(var item in amt)
-            {
-                totalAmt = totalAmt + item;
-            }
-            totalAmt = totalAmt.Split('.')[0];
-            int amount = Int32.Parse(totalAmt);
-            int PerPersonAmount = amount * 4;
+
+            double amount = double.Parse(amount1.Replace(",","").Replace("Rs",""));
+            double PerPersonAmount = amount * 4;
 
             driver.FindElement(By.XPath("/html[1]/body[1]/div[2]/div[7]/section[1]/div[1]/div[10]/ul[1]/li[1]/div[1]/div[1]/div[2]/div[1]/div[2]/button[1]")).Click();
             
             string Finalamount = driver.FindElement(By.XPath("//span[@class='packagePriceTotal']")).Text;
 
-            string Finalamount1 = Finalamount.Substring(2);
-            string[] finalamount2 = Finalamount1.Split(',');
-            string totalamount = "";
-            foreach(var item in finalamount2)
-            {
-                totalamount = totalamount + item;
-            }
-            totalamount = totalamount.Split('.')[0];
-            int FinalElement = Int32.Parse(totalamount);
+            double final = double.Parse(Finalamount.Replace(",","").Replace("Rs",""));
 
 
-            if(PerPersonAmount==FinalElement)
-            {
-                Console.WriteLine("Total Amount is matched");
-            }
+            Assert.AreEqual(PerPersonAmount,final);
+ 
         }
         [Then(@"dismis browser")]
         public void ThenDismisBrowser()
         {
-           driver.Quit();
+            webintializer.Quitdriver();
         }
     }
 }

@@ -1,0 +1,196 @@
+﻿2019-06-13T21:34:17.4759389+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-13T21:34:17.4759389+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-13T21:34:17.4759389+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-13T21:34:17.4988773+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-13T21:34:17.4988773+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-13T21:34:17.4988773+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-13T21:34:17.5128410+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-13T213417.log
+2019-06-13T21:34:17.5148360+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-13T21:34:17.5188255+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-13T21:34:17.5218507+05:30;Thread#15;Info;Checking license
+2019-06-13T21:34:17.5228501+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-13T21:34:17.5238204+05:30;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-13T21:34:17.5348223+05:30;Thread#15;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-06-13T21:34:27.5365427+05:30;Thread#15;Info;Evaluation delay finished.
+2019-06-13T21:34:27.5403505+05:30;Thread#15;Info;License check completed
+2019-06-13T21:34:27.5403505+05:30;Thread#15;Info;starting test run
+2019-06-13T21:34:27.5453366+05:30;Thread#15;Info;Discovering target: Default
+2019-06-13T21:34:27.5453366+05:30;Thread#15;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-13T21:34:27.5802078+05:30:Appdomain Disposed
+2019-06-13T21:34:27.5802078+05:30;Thread#15;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-13T21:34:27.5802078+05:30:Test Suite Dump
+2019-06-13T21:34:27.5812066+05:30:#0: Unnamed project/ - 
+2019-06-13T21:34:27.5812066+05:30:#1: Default - 
+2019-06-13T21:34:27.5812066+05:30:#2: Assignmnet - 
+2019-06-13T21:34:27.5812066+05:30:#3: Check the Login functionality of AutomationPractice.com - 
+2019-06-13T21:34:27.5812066+05:30:#8: Checking Api Response - 
+2019-06-13T21:34:27.5812066+05:30:#10: UnSucessfull Registration - 
+2019-06-13T21:34:27.5812066+05:30:#12: Taking the list of user - 
+2019-06-13T21:34:27.5812066+05:30:#14: Checking the functionality of flight booking at Expedia.com - 
+2019-06-13T21:34:27.5892296+05:30:#4: For Empty email and vaid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+email+and+vaid+Password
+2019-06-13T21:34:27.5892296+05:30:#5: For Empty Password and valid email - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Password+and+valid+email
+2019-06-13T21:34:27.5892296+05:30:#6: For Invalid Email and Invalid Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Invalid+Email+and+Invalid+Password
+2019-06-13T21:34:27.5892296+05:30:#7: For Empty Email and Empty Password - TestAssembly:Assignmnet/Feature:Check+the+Login+functionality+of+AutomationPractice.com/Scenario:For+Empty+Email+and+Empty+Password
+2019-06-13T21:34:27.5892296+05:30:#9: Checking Response through restapi - TestAssembly:Assignmnet/Feature:Checking+Api+Response/Scenario:Checking+Response+through+restapi
+2019-06-13T21:34:27.5892296+05:30:#11: Checking the unsucessfull registration - TestAssembly:Assignmnet/Feature:UnSucessfull+Registration/Scenario:Checking+the+unsucessfull+registration
+2019-06-13T21:34:27.5892296+05:30:#13: Fetching the list of users - TestAssembly:Assignmnet/Feature:Taking+the+list+of+user/Scenario:Fetching+the+list+of+users
+2019-06-13T21:34:27.5892296+05:30:#15: Login in to Expedia - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Login+in+to+Expedia
+2019-06-13T21:34:27.5892296+05:30:#16: Multicity flight booking - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Multicity+flight+booking
+2019-06-13T21:34:27.5892296+05:30:#17: Searchinfg the flight - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Searchinfg+the+flight
+2019-06-13T21:34:27.5892296+05:30:#18: Trip Summary - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:Trip+Summary
+2019-06-13T21:34:27.5892296+05:30:#19: ZClosing the Browser - TestAssembly:Assignmnet/Feature:Checking+the+functionality+of+flight+booking+at+Expedia.com/Scenario:ZClosing+the+Browser
+2019-06-13T21:34:27.5892296+05:30:End: Test Suite Dump
+2019-06-13T21:34:27.6051881+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T21:34:27.6061830+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-13T21:34:27.6061830+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-13T21:34:27.6091328+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T21:34:27.6091328+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-13T21:34:27.6091328+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-13T21:34:27.6091328+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-13T21:34:27.6101634+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-13T21:34:27.6111624+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-13T21:34:27.6121566+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-13T21:34:27.6141510+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-13T21:34:27.6141510+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-13T21:34:27.6141510+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-13T21:34:27.6760644+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-06-13T21:34:27.8934987+05:30:Thread#0:T:-> Using app.config
+2019-06-13T21:34:28.0712777+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T21:34:49.4472556+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (21.3s)
+2019-06-13T21:34:49.4472556+05:30:Thread#0:B:And click on login button
+2019-06-13T21:34:53.3480972+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenClickOnLoginButton() (3.9s)
+2019-06-13T21:34:53.3490932+05:30:Thread#0:B:When Pass the parameter
+2019-06-13T21:34:55.5782053+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.WhenPassTheParameter() (2.2s)
+2019-06-13T21:34:55.5782053+05:30:Thread#0:B:Then Message is Displayed
+2019-06-13T21:34:55.5792294+05:30:Thread#0:T:An email address required.
+2019-06-13T21:34:55.5792294+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.ThenMessageIsDisplayed() (0.0s)
+2019-06-13T21:34:55.5792294+05:30:Thread#0:B:And Close th Browser
+2019-06-13T21:34:55.7028792+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.ThenCloseThBrowser() (0.1s)
+2019-06-13T21:34:55.7108900+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T21:34:55.7108900+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-06-13T21:34:55.7108900+05:30:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-06-13T21:34:55.7108900+05:30:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T21:34:55.7108900+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-06-13T21:34:55.7108900+05:30:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-06-13T21:34:55.7108900+05:30:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-06-13T21:34:55.7108900+05:30:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-06-13T21:34:55.7108900+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-13T21:34:55.7188365+05:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 28.0427721 seconds
+2019-06-13T21:34:55.7208316+05:30:Thread#0: Test #5/0 is started on thread #0
+2019-06-13T21:34:55.7218265+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T21:35:10.2798143+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (14.6s)
+2019-06-13T21:35:10.2798143+05:30:Thread#0:B:And click on login button
+2019-06-13T21:35:13.1993415+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenClickOnLoginButton() (2.9s)
+2019-06-13T21:35:13.1993415+05:30:Thread#0:B:When Pass the parameters
+2019-06-13T21:35:15.4144528+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.WhenPassTheParameters() (2.2s)
+2019-06-13T21:35:15.4144528+05:30:Thread#0:B:Then Unsucessfull Message is displayed
+2019-06-13T21:35:15.4154482+05:30:Thread#0:T:Password is required.
+2019-06-13T21:35:15.4154482+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.ThenUnsucessfullMessageIsDisplayed() (0.0s)
+2019-06-13T21:35:15.4154482+05:30:Thread#0:B:And Close th Browser
+2019-06-13T21:35:15.5331371+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.ThenCloseThBrowser() (0.1s)
+2019-06-13T21:35:15.5331371+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T21:35:15.5331371+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-06-13T21:35:15.5331371+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-06-13T21:35:15.5331371+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T21:35:15.5331371+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-06-13T21:35:15.5331371+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-06-13T21:35:15.5331371+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-06-13T21:35:15.5331371+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-06-13T21:35:15.5331371+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-13T21:35:15.5341349+05:30:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 19.8133033 seconds
+2019-06-13T21:35:15.5341349+05:30:Thread#0: Test #6/0 is started on thread #0
+2019-06-13T21:35:15.5341349+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T21:35:40.6353840+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (25.1s)
+2019-06-13T21:35:40.6353840+05:30:Thread#0:B:And click on login button
+2019-06-13T21:35:41.0432459+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenClickOnLoginButton() (0.4s)
+2019-06-13T21:35:41.0432459+05:30:Thread#0:B:When Pass the Arguments
+2019-06-13T21:35:41.0761568+05:30:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-06-13T21:35:41.0761568+05:30:Thread#0:B:Then Unsucessfull Message is shown
+2019-06-13T21:35:41.0761568+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:35:41.0761568+05:30:Thread#0:B:And Close th Browser
+2019-06-13T21:35:41.0761568+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:35:41.1020897+05:30:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-06-13T21:35:41.1020897+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T21:35:41.1020897+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-06-13T21:35:41.1020897+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-06-13T21:35:41.1020897+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T21:35:41.1020897+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-06-13T21:35:41.1020897+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-06-13T21:35:41.1020897+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-06-13T21:35:41.1020897+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-06-13T21:35:41.1020897+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-13T21:35:41.1030868+05:30:Thread#0: Test #6/0 is finished on thread #0 as Failed within 25.5689519 seconds
+2019-06-13T21:35:41.1030868+05:30:Thread#0: Test #6/1 is started on thread #0
+2019-06-13T21:35:41.1030868+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T21:35:45.3759031+05:30:Thread#0:T:error: unknown error: cannot determine loading status
+2019-06-13T21:35:45.3759031+05:30:Thread#0:T:from disconnected: received Inspector.detached event
+2019-06-13T21:35:45.3819188+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T21:35:45.3819188+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T21:35:45.3819188+05:30:Thread#0:B:And click on login button
+2019-06-13T21:35:45.3819188+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:35:45.3828841+05:30:Thread#0:B:When Pass the Arguments
+2019-06-13T21:35:45.3828841+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:35:45.3828841+05:30:Thread#0:B:Then Unsucessfull Message is shown
+2019-06-13T21:35:45.3828841+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:35:45.3839163+05:30:Thread#0:B:And Close th Browser
+2019-06-13T21:35:45.3839163+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:35:45.3839163+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T21:35:45.3839163+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-06-13T21:35:45.3839163+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-06-13T21:35:45.3839163+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T21:35:45.3839163+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-06-13T21:35:45.3839163+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-06-13T21:35:45.3839163+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-06-13T21:35:45.3839163+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-06-13T21:35:45.3839163+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-13T21:35:45.3839163+05:30:Thread#0: Test #6/1 is finished on thread #0 as Failed within 4.2808295 seconds
+2019-06-13T21:35:45.3849107+05:30:Thread#0: Test #6/2 is started on thread #0
+2019-06-13T21:35:45.3849107+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T21:36:03.4613357+05:30:Thread#0:T:error: chrome not reachable
+2019-06-13T21:36:03.4623325+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T21:36:03.4623325+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (100)
+2019-06-13T21:36:03.4623325+05:30:Thread#0:B:And click on login button
+2019-06-13T21:36:03.4623325+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:36:03.4623325+05:30:Thread#0:B:When Pass the Arguments
+2019-06-13T21:36:03.4623325+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:36:03.4623325+05:30:Thread#0:B:Then Unsucessfull Message is shown
+2019-06-13T21:36:03.4623325+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:36:03.4623325+05:30:Thread#0:B:And Close th Browser
+2019-06-13T21:36:03.4623325+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:36:03.4623325+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T21:36:03.4623325+05:30:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-06-13T21:36:03.4623325+05:30:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-06-13T21:36:03.4623325+05:30:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T21:36:03.4623325+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-06-13T21:36:03.4623325+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-06-13T21:36:03.4623325+05:30:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-06-13T21:36:03.4623325+05:30:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-06-13T21:36:03.4633300+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-13T21:36:03.4633300+05:30:Thread#0: Test #6/2 is finished on thread #0 as Failed within 18.0784193 seconds
+2019-06-13T21:36:03.4633300+05:30:Thread#0: Test #7/0 is started on thread #0
+2019-06-13T21:36:03.4633300+05:30:Thread#0:B:Given I have navigated to the website
+2019-06-13T21:36:10.2504505+05:30:Thread#0:T:done: CheckTheLoginFunctionalityOfAutomationPractice_ComSteps.GivenIHaveNavigatedToTheWebsite() (6.8s)
+2019-06-13T21:36:10.2504505+05:30:Thread#0:B:And click on login button
+2019-06-13T21:36:10.2524462+05:30:Thread#0:T:error: no such window: target window already closed
+2019-06-13T21:36:10.2524462+05:30:Thread#0:T:from unknown error: web view not found
+2019-06-13T21:36:10.2524462+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.80)
+2019-06-13T21:36:10.2524462+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-13T21:36:10.2524462+05:30:Thread#0:B:When No Argument is passed
+2019-06-13T21:36:10.2534415+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:36:10.2534415+05:30:Thread#0:B:Then Message is displayed accordingly
+2019-06-13T21:36:10.2534415+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:36:10.2534415+05:30:Thread#0:B:And Close th Browser
+2019-06-13T21:36:10.2534415+05:30:Thread#0:T:skipped because of previous errors
+2019-06-13T21:36:10.2534415+05:30:Thread#0:TestItem#7:Scheduler: reschedule tests for testitem #7
+2019-06-13T21:36:10.2534415+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-13T21:36:10.2534415+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #7
+2019-06-13T21:36:10.2534415+05:30:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-06-13T21:36:10.2534415+05:30:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-13T21:36:10.2534415+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-06-13T21:36:10.2534415+05:30:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-06-13T21:36:10.2534415+05:30:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-06-13T21:36:10.2544393+05:30:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-06-13T21:36:10.2544393+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-13T21:36:10.2544393+05:30:Thread#0: Test #7/0 is finished on thread #0 as Failed within 6.7911093 seconds
+2019-06-13T21:36:10.2544393+05:30:Thread#0: Test #7/1 is started on thread #0
+2019-06-13T21:36:10.2544393+05:30:Thread#0:B:Given I have navigated to the website

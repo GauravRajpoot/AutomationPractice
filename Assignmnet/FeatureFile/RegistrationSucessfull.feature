@@ -1,4 +1,4 @@
-﻿Feature: Checking Api Response
+﻿Feature: Checking the ressponse of APi
 	
 @mytag
 Scenario:Checking Response through restapi

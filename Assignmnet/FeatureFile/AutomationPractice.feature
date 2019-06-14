@@ -1,4 +1,4 @@
-﻿Feature: Check the Login functionality of AutomationPractice.com
+﻿Feature: Check a Login functionality of AutomationPractice.com
 	WE have to check the for each and every case of login
 	
 

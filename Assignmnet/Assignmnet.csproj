@@ -129,7 +129,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>GettingList.feature</DependentUpon>
     </Compile>
-    <Compile Include="Hooks.cs" />
     <Compile Include="StepDefinationFile\AutomationPractice.cs" />
     <Compile Include="FeatureFile\Expedia.feature.cs">
       <AutoGen>True</AutoGen>
@@ -138,16 +137,17 @@
     </Compile>
     <Compile Include="StepDefinationFile\Expedia.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StepDefinationFile\Hooks1.cs" />
     <Compile Include="StepDefinationFile\ListOfUsers.cs" />
     <Compile Include="StepDefinationFile\SucessfullRegistration.cs" />
     <Compile Include="StepDefinationFile\UnSucessfullRegistrationSteps.cs" />
     <Compile Include="Utilities\AutomationPractice.cs" />
     <Compile Include="Utilities\BasePage.cs" />
     <Compile Include="Utilities\ExpediaUtilities.cs" />
-    <Compile Include="Utilities\ExtentReport.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Default.srprofile" />
     <None Include="FeatureFile\AutomationPractice.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>AutomationPractice.feature.cs</LastGenOutput>
@@ -183,7 +183,7 @@
     <Content Include="Drivers\IEDriverServer.exe" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Report\" />
+    <Folder Include="Reports\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

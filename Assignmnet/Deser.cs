@@ -11,5 +11,11 @@ namespace Assignmnet
         public int id;
 
         public string token;
+
+        public string error;
+
+        public int page;
+
+        public int total;
     }
 }

@@ -17,8 +17,8 @@ namespace Assignmnet.FeatureFile
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "2.4.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [TechTalk.SpecRun.FeatureAttribute("Check the Login functionality of AutomationPractice.com", Description="\tWE have to check the for each and every case of login", SourceFile="FeatureFile\\AutomationPractice.feature", SourceLine=0)]
-    public partial class CheckTheLoginFunctionalityOfAutomationPractice_ComFeature
+    [TechTalk.SpecRun.FeatureAttribute("Check a Login functionality of AutomationPractice.com", Description="\tWE have to check the for each and every case of login", SourceFile="FeatureFile\\AutomationPractice.feature", SourceLine=0)]
+    public partial class CheckALoginFunctionalityOfAutomationPractice_ComFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
@@ -30,7 +30,7 @@ namespace Assignmnet.FeatureFile
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Check the Login functionality of AutomationPractice.com", "\tWE have to check the for each and every case of login", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Check a Login functionality of AutomationPractice.com", "\tWE have to check the for each and every case of login", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         

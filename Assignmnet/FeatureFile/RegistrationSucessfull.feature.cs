@@ -17,8 +17,8 @@ namespace Assignmnet.FeatureFile
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "2.4.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [TechTalk.SpecRun.FeatureAttribute("Checking Api Response", SourceFile="FeatureFile\\RegistrationSucessfull.feature", SourceLine=0)]
-    public partial class CheckingApiResponseFeature
+    [TechTalk.SpecRun.FeatureAttribute("Checking the ressponse of APi", SourceFile="FeatureFile\\RegistrationSucessfull.feature", SourceLine=0)]
+    public partial class CheckingTheRessponseOfAPiFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
@@ -30,7 +30,7 @@ namespace Assignmnet.FeatureFile
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Checking Api Response", null, ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Checking the ressponse of APi", null, ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         

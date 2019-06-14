@@ -1,0 +1,174 @@
+﻿2019-06-14T13:48:08.9636088+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-14T13:48:08.9636088+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.346 in Framework clr40 in x86 mode execution started
+2019-06-14T13:48:08.9636088+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-14T13:48:08.9975532+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-14T13:48:08.9985500+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults" (default)
+2019-06-14T13:48:08.9985500+05:30;VSTestExecutionThread;Info;Profile: 
+2019-06-14T13:48:09.0149146+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-14T134809.log
+2019-06-14T13:48:09.0154949+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-14T13:48:09.0234782+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-14T13:48:09.0274371+05:30;Thread#13;Info;Checking license
+2019-06-14T13:48:09.0284670+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-14T13:48:09.0284670+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-14T13:48:09.0414002+05:30;Thread#13;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-06-14T13:48:18.0425245+05:30;Thread#13;Info;Evaluation delay finished.
+2019-06-14T13:48:18.0655182+05:30;Thread#13;Info;License check completed
+2019-06-14T13:48:18.0655182+05:30;Thread#13;Info;starting test run
+2019-06-14T13:48:18.0764701+05:30;Thread#13;Info;Discovering target: Default
+2019-06-14T13:48:18.0764701+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-14T13:48:18.3130491+05:30:Appdomain Disposed
+2019-06-14T13:48:18.3130491+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\Assignmnet\bin\Debug\Assignmnet.dll
+2019-06-14T13:48:18.3139289+05:30:Test Suite Dump
+2019-06-14T13:48:18.3150757+05:30:#0: Unnamed project/ - 
+2019-06-14T13:48:18.3150757+05:30:#1: Default - 
+2019-06-14T13:48:18.3150757+05:30:#2: Assignmnet - 
+2019-06-14T13:48:18.3150757+05:30:#14: Checking functionality of flight booking at Expedia.com - 
+2019-06-14T13:48:18.3420088+05:30:#15: Login in to Expedia - TestAssembly:Assignmnet/Feature:Checking+functionality+of+flight+booking+at+Expedia.com/Scenario:Login+in+to+Expedia
+2019-06-14T13:48:18.3420088+05:30:#16: Multicity flight booking - TestAssembly:Assignmnet/Feature:Checking+functionality+of+flight+booking+at+Expedia.com/Scenario:Multicity+flight+booking
+2019-06-14T13:48:18.3420088+05:30:#17: Searchinfg the flight - TestAssembly:Assignmnet/Feature:Checking+functionality+of+flight+booking+at+Expedia.com/Scenario:Searchinfg+the+flight
+2019-06-14T13:48:18.3420088+05:30:#18: Trip Summary - TestAssembly:Assignmnet/Feature:Checking+functionality+of+flight+booking+at+Expedia.com/Scenario:Trip+Summary
+2019-06-14T13:48:18.3420088+05:30:#19: ZClosing the Browser - TestAssembly:Assignmnet/Feature:Checking+functionality+of+flight+booking+at+Expedia.com/Scenario:ZClosing+the+Browser
+2019-06-14T13:48:18.3420088+05:30:End: Test Suite Dump
+2019-06-14T13:48:18.3754488+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T13:48:18.3774425+05:30:Thread#:Scheduler: testitem #15 from normal test queue 
+2019-06-14T13:48:18.3774425+05:30:Thread#0:Scheduler: considering testitem #15 for thread 0
+2019-06-14T13:48:18.3804831+05:30:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T13:48:18.3804831+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2019-06-14T13:48:18.3804831+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2019-06-14T13:48:18.3804831+05:30:Thread#0:Scheduler: using testitem #15 for thread 0
+2019-06-14T13:48:18.3814318+05:30:Thread#0:Scheduler: Test #15 is scheduled for thread
+2019-06-14T13:48:18.3814318+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-14T13:48:18.3834264+05:30:Thread #0: creating new test thread executor for Assignmnet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-14T13:48:18.3844443+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-14T13:48:18.3854213+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-14T13:48:18.3854213+05:30:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-14T13:48:18.4193781+05:30:Thread#0: Test #15/0 is started on thread #0
+2019-06-14T13:48:18.5021071+05:30:Thread#0:T:-> Using app.config
+2019-06-14T13:48:18.6895504+05:30:Thread#0:B:Given Open Chrome WebBrowser
+2019-06-14T13:48:21.7652755+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.GivenOpenChromeWebBrowser() (3.0s)
+2019-06-14T13:48:21.8180027+05:30:Thread#0:TestItem#15:Scheduler: reschedule tests for testitem #15
+2019-06-14T13:48:21.8180027+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T13:48:21.8180027+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #15
+2019-06-14T13:48:21.8180027+05:30:Thread#0:Scheduler: considering testitem #15 for thread 0
+2019-06-14T13:48:21.8180027+05:30:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T13:48:21.8180027+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2019-06-14T13:48:21.8180027+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2019-06-14T13:48:21.8180027+05:30:Thread#0:Scheduler: using testitem #15 for thread 0
+2019-06-14T13:48:21.8180027+05:30:Thread#0:Scheduler: Test #15 is scheduled for thread
+2019-06-14T13:48:21.8180027+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-14T13:48:21.8270279+05:30:Thread#0: Test #15/0 is finished on thread #0 as Failed within 3.4076498 seconds
+2019-06-14T13:48:21.8289768+05:30:Thread#0: Test #15/1 is started on thread #0
+2019-06-14T13:48:21.8289768+05:30:Thread#0:B:Given Open Chrome WebBrowser
+2019-06-14T13:48:25.0484549+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.GivenOpenChromeWebBrowser() (3.2s)
+2019-06-14T13:48:25.0494526+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T13:48:25.0494526+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #15
+2019-06-14T13:48:25.0494526+05:30:Thread#0:Scheduler: considering testitem #15 for thread 0
+2019-06-14T13:48:25.0494526+05:30:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T13:48:25.0494526+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2019-06-14T13:48:25.0494526+05:30:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2019-06-14T13:48:25.0494526+05:30:Thread#0:Scheduler: using testitem #15 for thread 0
+2019-06-14T13:48:25.0494526+05:30:Thread#0:Scheduler: Test #15 is scheduled for thread
+2019-06-14T13:48:25.0494526+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-14T13:48:25.0494526+05:30:Thread#0: Test #15/1 is finished on thread #0 as Failed within 3.2204758 seconds
+2019-06-14T13:48:25.0494526+05:30:Thread#0: Test #15/2 is started on thread #0
+2019-06-14T13:48:25.0494526+05:30:Thread#0:B:Given Open Chrome WebBrowser
+2019-06-14T13:48:28.4236081+05:30:Thread#0:T:done: CheckingTheFunctionalityOfFlightBookingAtExpedia_ComSteps.GivenOpenChromeWebBrowser() (3.4s)
+2019-06-14T13:48:28.4255662+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T13:48:28.4255662+05:30:Thread#:Scheduler: testitem #16 from normal test queue 
+2019-06-14T13:48:28.4255662+05:30:Thread#0:Scheduler: considering testitem #16 for thread 0
+2019-06-14T13:48:28.4255662+05:30:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T13:48:28.4259927+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2019-06-14T13:48:28.4259927+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2019-06-14T13:48:28.4259927+05:30:Thread#0:Scheduler: using testitem #16 for thread 0
+2019-06-14T13:48:28.4259927+05:30:Thread#0:Scheduler: Test #16 is scheduled for thread
+2019-06-14T13:48:28.4259927+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-14T13:48:28.4265647+05:30:Thread#0: Test #15/2 is finished on thread #0 as Failed within 3.3771121 seconds
+2019-06-14T13:48:28.4265647+05:30:Thread#0: Test #16/0 is started on thread #0
+2019-06-14T13:48:28.4286069+05:30:Thread#0:B:Then Click on flight tab
+2019-06-14T13:48:28.4636538+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab-flight-tab-hp']"}
+2019-06-14T13:48:28.4636538+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.90)
+2019-06-14T13:48:28.4636538+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-14T13:48:28.4647055+05:30:Thread#0:TestItem#16:Scheduler: reschedule tests for testitem #16
+2019-06-14T13:48:28.4647055+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T13:48:28.4647055+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #16
+2019-06-14T13:48:28.4647055+05:30:Thread#0:Scheduler: considering testitem #16 for thread 0
+2019-06-14T13:48:28.4647055+05:30:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T13:48:28.4647055+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2019-06-14T13:48:28.4647055+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2019-06-14T13:48:28.4647055+05:30:Thread#0:Scheduler: using testitem #16 for thread 0
+2019-06-14T13:48:28.4647055+05:30:Thread#0:Scheduler: Test #16 is scheduled for thread
+2019-06-14T13:48:28.4647055+05:30:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-14T13:48:28.4656480+05:30:Thread#0: Test #16/0 is finished on thread #0 as Failed within 0.0390833 seconds
+2019-06-14T13:48:28.4656480+05:30:Thread#0: Test #16/1 is started on thread #0
+2019-06-14T13:48:28.4656480+05:30:Thread#0:B:Then Click on flight tab
+2019-06-14T13:48:28.4796452+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab-flight-tab-hp']"}
+2019-06-14T13:48:28.4796452+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.90)
+2019-06-14T13:48:28.4796452+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-14T13:48:28.4806086+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T13:48:28.4806086+05:30:Thread#:Scheduler: dequeuing a rescheduled testitem: #16
+2019-06-14T13:48:28.4806086+05:30:Thread#0:Scheduler: considering testitem #16 for thread 0
+2019-06-14T13:48:28.4806948+05:30:Thread#0:TestItem#16:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T13:48:28.4806948+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadSpecific:False
+2019-06-14T13:48:28.4806948+05:30:Thread#0:TestItem#16:runsOnOneOtherThreadUnspecific:False
+2019-06-14T13:48:28.4806948+05:30:Thread#0:Scheduler: using testitem #16 for thread 0
+2019-06-14T13:48:28.4806948+05:30:Thread#0:Scheduler: Test #16 is scheduled for thread
+2019-06-14T13:48:28.4806948+05:30:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-14T13:48:28.4806948+05:30:Thread#0: Test #16/1 is finished on thread #0 as Failed within 0.0150468 seconds
+2019-06-14T13:48:28.4806948+05:30:Thread#0: Test #16/2 is started on thread #0
+2019-06-14T13:48:28.4806948+05:30:Thread#0:B:Then Click on flight tab
+2019-06-14T13:48:28.4917491+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab-flight-tab-hp']"}
+2019-06-14T13:48:28.4917491+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.90)
+2019-06-14T13:48:28.4917491+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-14T13:48:28.4926502+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-06-14T13:48:28.4926502+05:30:Thread#:Scheduler: testitem #17 from normal test queue 
+2019-06-14T13:48:28.4926502+05:30:Thread#0:Scheduler: considering testitem #17 for thread 0
+2019-06-14T13:48:28.4926502+05:30:Thread#0:TestItem#17:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-14T13:48:28.4926502+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadSpecific:False
+2019-06-14T13:48:28.4926502+05:30:Thread#0:TestItem#17:runsOnOneOtherThreadUnspecific:False
+2019-06-14T13:48:28.4926502+05:30:Thread#0:Scheduler: using testitem #17 for thread 0
+2019-06-14T13:48:28.4935752+05:30:Thread#0:Scheduler: Test #17 is scheduled for thread
+2019-06-14T13:48:28.4935752+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-14T13:48:28.4986069+05:30:Thread#0: Test #16/2 is finished on thread #0 as Failed within 0.0179121 seconds
+2019-06-14T13:48:28.4986069+05:30:Thread#0: Test #17/0 is started on thread #0
+2019-06-14T13:48:28.4995570+05:30:Thread#0:B:Then Click On the Search BUtton
+2019-06-14T13:48:28.5135196+05:30:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//form[@id='gcw-flights-form-hp-flight']//button[@class='btn-primary btn-action gcw-submit']"}
+2019-06-14T13:48:28.5135196+05:30:Thread#0:T:  (Session info: chrome=75.0.3770.90)
+2019-06-14T13:48:28.5135196+05:30:Thread#0:T:  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64)
+2019-06-14T13:48:28.5145168+05:30:Cancelling because configured number of failures reached
+2019-06-14T13:48:30.4160595+05:30:Thread#0: Test #17/0 is finished on thread #0 as Failed within 1.9174526 seconds
+2019-06-14T13:48:30.4389943+05:30:Appdomain Disposed
+2019-06-14T13:48:30.4412160+05:30:Trying to cancel thread
+2019-06-14T13:48:30.4412160+05:30:Thread cancelled
+2019-06-14T13:48:30.4491979+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T13:48:30.4491979+05:30:Thread#:Scheduler: testitem #18 from normal test queue 
+2019-06-14T13:48:30.4491979+05:30:Thread#-1:Scheduler: considering testitem #18 for thread -1
+2019-06-14T13:48:30.4491979+05:30:Thread#-1:Scheduler: using testitem #18 for thread -1
+2019-06-14T13:48:30.4491979+05:30:Thread#-1:Scheduler: Test #18 is scheduled for thread
+2019-06-14T13:48:30.4491979+05:30:Thread#-1: Test #18/0 is started on thread #-1
+2019-06-14T13:48:30.4491979+05:30:Thread#-1: Test #18/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T13:48:30.4501976+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T13:48:30.4502114+05:30:Thread#:Scheduler: testitem #19 from normal test queue 
+2019-06-14T13:48:30.4502114+05:30:Thread#-1:Scheduler: considering testitem #19 for thread -1
+2019-06-14T13:48:30.4502114+05:30:Thread#-1:Scheduler: using testitem #19 for thread -1
+2019-06-14T13:48:30.4502114+05:30:Thread#-1:Scheduler: Test #19 is scheduled for thread
+2019-06-14T13:48:30.4502114+05:30:Thread#-1: Test #19/0 is started on thread #-1
+2019-06-14T13:48:30.4502114+05:30:Thread#-1: Test #19/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-06-14T13:48:30.4502114+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-06-14T13:48:30.4502114+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-06-14T13:48:30.4502114+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-14T13:48:30.4561786+05:30;Thread#13;Info;test run finished
+2019-06-14T13:48:30.4561786+05:30;Thread#13;Info;publishing test results
+2019-06-14T13:48:30.4853719+05:30;Thread#13;Info;test results published
+2019-06-14T13:48:30.4853719+05:30;Thread#13;Info;generating reports
+2019-06-14T13:48:30.5818422+05:30;Thread#13;Info;Starting external report generation process
+2019-06-14T13:48:32.9025036+05:30;Thread#13;Info;Successfully generated reports.
+2019-06-14T13:48:32.9034669+05:30;Thread#13;Info;Successfully generated reports
+2019-06-14T13:48:32.9184279+05:30:Total: 5 (test executions: 9)
+2019-06-14T13:48:32.9224517+05:30:Succeeded: 0
+2019-06-14T13:48:32.9234147+05:30:Ignored: 0
+2019-06-14T13:48:32.9244077+05:30:Pending: 0
+2019-06-14T13:48:32.9244077+05:30:Skipped: 2
+2019-06-14T13:48:32.9254435+05:30:Failed: 3
+2019-06-14T13:48:32.9424021+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-14T13:48:32.9424021+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\gauravrajpoot\source\repos\RestSharpAndExpedia\TestResults\Unnamed project__2019-06-14T134809.html'
+========== End of log file ==========

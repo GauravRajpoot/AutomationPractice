@@ -1,4 +1,4 @@
-﻿Feature: Checking the functionality of flight booking at Expedia.com
+﻿Feature: Checking functionality of flight booking at Expedia.com
         In this we are booking multicity flight with given source and destination 
 		Also displaying the totla expense 
 

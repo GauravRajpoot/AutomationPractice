@@ -17,9 +17,9 @@ namespace Assignmnet.FeatureFile
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "2.4.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [TechTalk.SpecRun.FeatureAttribute("Checking the functionality of flight booking at Expedia.com", Description="        In this we are booking multicity flight with given source and destination" +
+    [TechTalk.SpecRun.FeatureAttribute("Checking functionality of flight booking at Expedia.com", Description="        In this we are booking multicity flight with given source and destination" +
         " \r\n\t\tAlso displaying the totla expense ", SourceFile="FeatureFile\\Expedia.feature", SourceLine=0)]
-    public partial class CheckingTheFunctionalityOfFlightBookingAtExpedia_ComFeature
+    public partial class CheckingFunctionalityOfFlightBookingAtExpedia_ComFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
@@ -31,7 +31,7 @@ namespace Assignmnet.FeatureFile
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Checking the functionality of flight booking at Expedia.com", "        In this we are booking multicity flight with given source and destination" +
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Checking functionality of flight booking at Expedia.com", "        In this we are booking multicity flight with given source and destination" +
                     " \r\n\t\tAlso displaying the totla expense ", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }

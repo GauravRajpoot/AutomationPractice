@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Newtonsoft.Json;
 using RestSharp;
 using System;
 using TechTalk.SpecFlow;
@@ -24,9 +25,9 @@ namespace Assignmnet.StepDefinationFile
             var content = response.Content;
             Console.WriteLine(content);
             Deser deserializedProduct = JsonConvert.DeserializeObject<Deser>(content);
-            Console.WriteLine("id : {0}", deserializedProduct.id);
-            Console.WriteLine("token : {0}", deserializedProduct.token);
-            Console.ReadLine();
+
+            Assert.AreEqual(deserializedProduct.page, 4);
+            Assert.AreEqual(deserializedProduct.total, 12);
         }
         
         [Then(@"Generate the tokens")]

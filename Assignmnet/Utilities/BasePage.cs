@@ -30,7 +30,7 @@ namespace Assignmnet.Utilities
             driver.Navigate().GoToUrl(Weburl);
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
         }
-        public void quitdriver()
+        public void Quitdriver()
         {
             driver.Quit();
         }
